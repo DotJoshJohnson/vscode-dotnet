@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="a3162cae-e1a7-4a09-b784-f74e8e47d353" Title="VSCode.NET API Documentation" Url="html/R_Project_VSCode_NET.htm">
+    <HelpTOCNode Id="05060ed3-f77f-44de-8f29-577f1239fbe8" Title="VSCode" Url="html/N_VSCode.htm">
+      <HelpTOCNode Id="a8cf13a8-e350-4962-8134-4ca3d1b0f34d" Title="ClientCapabilities Class" Url="html/T_VSCode_ClientCapabilities.htm">
+        <HelpTOCNode Title="ClientCapabilities Constructor " Url="html/M_VSCode_ClientCapabilities__ctor.htm" />
+        <HelpTOCNode Title="ClientCapabilities Methods" Url="html/Methods_T_VSCode_ClientCapabilities.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Constants Class" Url="html/T_VSCode_Constants.htm" />
+      <HelpTOCNode Id="00b7a285-0462-409d-b153-efeedcbf81ec" Title="Constants.JsonRpc Class" Url="html/T_VSCode_Constants_JsonRpc.htm">
+        <HelpTOCNode Id="3ee84ebc-f701-4929-8491-92cd92d7e023" Title="JsonRpc Fields" Url="html/Fields_T_VSCode_Constants_JsonRpc.htm">
+          <HelpTOCNode Title="SupportedVersion Field" Url="html/F_VSCode_Constants_JsonRpc_SupportedVersion.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f0d4b7d-a359-44c1-b71f-27bf4e10344b" Title="Constants.JsonRpc.Properties Class" Url="html/T_VSCode_Constants_JsonRpc_Properties.htm">
+        <HelpTOCNode Id="59979e06-1416-40c7-9785-52c309bb547e" Title="Properties Fields" Url="html/Fields_T_VSCode_Constants_JsonRpc_Properties.htm">
+          <HelpTOCNode Title="Error Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Error.htm" />
+          <HelpTOCNode Title="Id Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Id.htm" />
+          <HelpTOCNode Title="JsonRpc Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_JsonRpc.htm" />
+          <HelpTOCNode Title="Method Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Method.htm" />
+          <HelpTOCNode Title="Params Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Params.htm" />
+          <HelpTOCNode Title="Result Field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Result.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="633e8e85-cbd2-4dfc-b401-1c3b0053573d" Title="CoreMethods Class" Url="html/T_VSCode_CoreMethods.htm">
+        <HelpTOCNode Id="51f2773f-ad40-4f55-aaf4-7b8b93b35b3b" Title="CoreMethods Fields" Url="html/Fields_T_VSCode_CoreMethods.htm">
+          <HelpTOCNode Title="CancelRequest Field" Url="html/F_VSCode_CoreMethods_CancelRequest.htm" />
+          <HelpTOCNode Title="Exit Field" Url="html/F_VSCode_CoreMethods_Exit.htm" />
+          <HelpTOCNode Title="Initialize Field" Url="html/F_VSCode_CoreMethods_Initialize.htm" />
+          <HelpTOCNode Title="Shutdown Field" Url="html/F_VSCode_CoreMethods_Shutdown.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a15326b1-e1e8-48d4-a6b2-c7c1f1689f0b" Title="Diagnostic Class" Url="html/T_VSCode_Diagnostic.htm">
+        <HelpTOCNode Title="Diagnostic Constructor " Url="html/M_VSCode_Diagnostic__ctor.htm" />
+        <HelpTOCNode Id="87a2480a-790e-4479-bc1f-9c3bb1613c50" Title="Diagnostic Properties" Url="html/Properties_T_VSCode_Diagnostic.htm">
+          <HelpTOCNode Title="Code Property " Url="html/P_VSCode_Diagnostic_Code.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_VSCode_Diagnostic_Message.htm" />
+          <HelpTOCNode Title="Range Property " Url="html/P_VSCode_Diagnostic_Range.htm" />
+          <HelpTOCNode Title="Severity Property " Url="html/P_VSCode_Diagnostic_Severity.htm" />
+          <HelpTOCNode Title="Source Property " Url="html/P_VSCode_Diagnostic_Source.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Diagnostic Methods" Url="html/Methods_T_VSCode_Diagnostic.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DiagnosticSeverity Enumeration" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+      <HelpTOCNode Id="d53800fc-e74a-4c49-b136-76b2dd376c05" Title="EditorCommand Class" Url="html/T_VSCode_EditorCommand.htm">
+        <HelpTOCNode Title="EditorCommand Constructor " Url="html/M_VSCode_EditorCommand__ctor.htm" />
+        <HelpTOCNode Id="b5d723fa-f276-4215-8293-3ce7a7daefbf" Title="EditorCommand Properties" Url="html/Properties_T_VSCode_EditorCommand.htm">
+          <HelpTOCNode Title="Arguments Property " Url="html/P_VSCode_EditorCommand_Arguments.htm" />
+          <HelpTOCNode Title="Command Property " Url="html/P_VSCode_EditorCommand_Command.htm" />
+          <HelpTOCNode Title="Title Property " Url="html/P_VSCode_EditorCommand_Title.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EditorCommand Methods" Url="html/Methods_T_VSCode_EditorCommand.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9f69aec6-a6dc-400b-80be-2316b2cd288e" Title="FeatureActivationException Class" Url="html/T_VSCode_FeatureActivationException.htm">
+        <HelpTOCNode Title="FeatureActivationException Constructor " Url="html/M_VSCode_FeatureActivationException__ctor.htm" />
+        <HelpTOCNode Title="FeatureActivationException Methods" Url="html/Methods_T_VSCode_FeatureActivationException.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="584cf472-98a4-40b9-9a2e-6b2aaaf631e9" Title="IFeature Interface" Url="html/T_VSCode_IFeature.htm">
+        <HelpTOCNode Id="5ac6791b-05a2-441b-bde4-20db8670b0c8" Title="IFeature Methods" Url="html/Methods_T_VSCode_IFeature.htm">
+          <HelpTOCNode Title="Initialize Method " Url="html/M_VSCode_IFeature_Initialize.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f908143a-a6cf-4867-9f82-b0880ad952b9" Title="InitializeParams Class" Url="html/T_VSCode_InitializeParams.htm">
+        <HelpTOCNode Title="InitializeParams Constructor " Url="html/M_VSCode_InitializeParams__ctor.htm" />
+        <HelpTOCNode Id="bbde71da-7358-401f-a2c7-a1e658743c14" Title="InitializeParams Properties" Url="html/Properties_T_VSCode_InitializeParams.htm">
+          <HelpTOCNode Title="Capabilities Property " Url="html/P_VSCode_InitializeParams_Capabilities.htm" />
+          <HelpTOCNode Title="ProcessId Property " Url="html/P_VSCode_InitializeParams_ProcessId.htm" />
+          <HelpTOCNode Title="RootPath Property " Url="html/P_VSCode_InitializeParams_RootPath.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="InitializeParams Methods" Url="html/Methods_T_VSCode_InitializeParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3480f193-5b5f-4636-99f6-82953e455e05" Title="InitializeResult Class" Url="html/T_VSCode_InitializeResult.htm">
+        <HelpTOCNode Title="InitializeResult Constructor " Url="html/M_VSCode_InitializeResult__ctor.htm" />
+        <HelpTOCNode Id="4ec5b5f2-9c50-49c4-abe4-c93d352701e2" Title="InitializeResult Properties" Url="html/Properties_T_VSCode_InitializeResult.htm">
+          <HelpTOCNode Title="Capabilities Property " Url="html/P_VSCode_InitializeResult_Capabilities.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="InitializeResult Methods" Url="html/Methods_T_VSCode_InitializeResult.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="49b682e2-8fc9-4197-950b-1f8431f610dc" Title="LanguageServer Class" Url="html/T_VSCode_LanguageServer.htm">
+        <HelpTOCNode Id="a1bc41c7-6028-4430-8303-90b1b1b9aac1" Title="LanguageServer Constructor " Url="html/Overload_VSCode_LanguageServer__ctor.htm">
+          <HelpTOCNode Title="LanguageServer Constructor " Url="html/M_VSCode_LanguageServer__ctor.htm" />
+          <HelpTOCNode Title="LanguageServer Constructor (ServerCapabilities)" Url="html/M_VSCode_LanguageServer__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9100387f-ee3a-430f-837e-071aca7d4ea8" Title="LanguageServer Properties" Url="html/Properties_T_VSCode_LanguageServer.htm">
+          <HelpTOCNode Title="Editor Property " Url="html/P_VSCode_LanguageServer_Editor.htm" />
+          <HelpTOCNode Title="State Property " Url="html/P_VSCode_LanguageServer_State.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="50cc410e-cee2-4f05-a6b3-157cac810bbc" Title="LanguageServer Methods" Url="html/Methods_T_VSCode_LanguageServer.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_VSCode_LanguageServer_Dispose.htm" />
+          <HelpTOCNode Title="GetFeature(T) Method " Url="html/M_VSCode_LanguageServer_GetFeature__1.htm" />
+          <HelpTOCNode Id="42553895-5df7-42cb-b730-5607388ea28f" Title="SendNotification Method " Url="html/Overload_VSCode_LanguageServer_SendNotification.htm">
+            <HelpTOCNode Title="SendNotification Method (String)" Url="html/M_VSCode_LanguageServer_SendNotification.htm" />
+            <HelpTOCNode Title="SendNotification Method (String, Object)" Url="html/M_VSCode_LanguageServer_SendNotification_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="b8c2d5bd-0275-4121-85ae-e6a11dae1209" Title="SendRequestAsync Method " Url="html/Overload_VSCode_LanguageServer_SendRequestAsync.htm">
+            <HelpTOCNode Title="SendRequestAsync Method (String)" Url="html/M_VSCode_LanguageServer_SendRequestAsync.htm" />
+            <HelpTOCNode Title="SendRequestAsync Method (String, Object)" Url="html/M_VSCode_LanguageServer_SendRequestAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="d8f1fee4-5866-4ace-b605-e259bf27792d" Title="SendResponseAsync Method " Url="html/Overload_VSCode_LanguageServer_SendResponseAsync.htm">
+            <HelpTOCNode Title="SendResponseAsync Method (Int32, Object)" Url="html/M_VSCode_LanguageServer_SendResponseAsync.htm" />
+            <HelpTOCNode Title="SendResponseAsync Method (Int32, Object, Object)" Url="html/M_VSCode_LanguageServer_SendResponseAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Start Method " Url="html/M_VSCode_LanguageServer_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_VSCode_LanguageServer_Stop.htm" />
+          <HelpTOCNode Id="d1184069-4777-4677-9ea2-623c4c396854" Title="WaitForState Method " Url="html/Overload_VSCode_LanguageServer_WaitForState.htm">
+            <HelpTOCNode Title="WaitForState Method (LanguageServerState)" Url="html/M_VSCode_LanguageServer_WaitForState.htm" />
+            <HelpTOCNode Title="WaitForState Method (LanguageServerState, TimeSpan)" Url="html/M_VSCode_LanguageServer_WaitForState_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="f8794738-a887-47be-b2f6-1f487319dcd6" Title="LanguageServer Events" Url="html/Events_T_VSCode_LanguageServer.htm">
+          <HelpTOCNode Title="Exit Event" Url="html/E_VSCode_LanguageServer_Exit.htm" />
+          <HelpTOCNode Title="Initialize Event" Url="html/E_VSCode_LanguageServer_Initialize.htm" />
+          <HelpTOCNode Title="NotificationReceived Event" Url="html/E_VSCode_LanguageServer_NotificationReceived.htm" />
+          <HelpTOCNode Title="RequestReceived Event" Url="html/E_VSCode_LanguageServer_RequestReceived.htm" />
+          <HelpTOCNode Title="ResponseReceived Event" Url="html/E_VSCode_LanguageServer_ResponseReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="LanguageServerState Enumeration" Url="html/T_VSCode_LanguageServerState.htm" />
+      <HelpTOCNode Id="43f38a14-0543-4a7c-bfa9-1be170c07638" Title="Location Class" Url="html/T_VSCode_Location.htm">
+        <HelpTOCNode Title="Location Constructor " Url="html/M_VSCode_Location__ctor.htm" />
+        <HelpTOCNode Id="9fcc2c6d-7d26-452e-bb30-c95d37b8d981" Title="Location Properties" Url="html/Properties_T_VSCode_Location.htm">
+          <HelpTOCNode Title="Range Property " Url="html/P_VSCode_Location_Range.htm" />
+          <HelpTOCNode Title="Uri Property " Url="html/P_VSCode_Location_Uri.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Location Methods" Url="html/Methods_T_VSCode_Location.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41ba93cb-4097-48ca-8da4-e5f0a7aa1bea" Title="Position Class" Url="html/T_VSCode_Position.htm">
+        <HelpTOCNode Title="Position Constructor " Url="html/M_VSCode_Position__ctor.htm" />
+        <HelpTOCNode Id="66add6bc-3d21-4ff9-8acf-c202362168ba" Title="Position Properties" Url="html/Properties_T_VSCode_Position.htm">
+          <HelpTOCNode Title="Character Property " Url="html/P_VSCode_Position_Character.htm" />
+          <HelpTOCNode Title="Line Property " Url="html/P_VSCode_Position_Line.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Position Methods" Url="html/Methods_T_VSCode_Position.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dc61c09e-2d45-4cf6-9de5-2e484517e844" Title="Range Class" Url="html/T_VSCode_Range.htm">
+        <HelpTOCNode Title="Range Constructor " Url="html/M_VSCode_Range__ctor.htm" />
+        <HelpTOCNode Id="ececdae9-6941-4689-b12b-d7dd10834243" Title="Range Properties" Url="html/Properties_T_VSCode_Range.htm">
+          <HelpTOCNode Title="End Property " Url="html/P_VSCode_Range_End.htm" />
+          <HelpTOCNode Title="Start Property " Url="html/P_VSCode_Range_Start.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Range Methods" Url="html/Methods_T_VSCode_Range.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6f152f73-6921-4928-a26f-6eeea5710c51" Title="RequestContext Class" Url="html/T_VSCode_RequestContext.htm">
+        <HelpTOCNode Id="2d67e5f2-53a1-421e-a55b-a3c704f3f8cf" Title="RequestContext Properties" Url="html/Properties_T_VSCode_RequestContext.htm">
+          <HelpTOCNode Title="Request Property " Url="html/P_VSCode_RequestContext_Request.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7f185bf4-4a7f-4d92-850a-dbc498368c27" Title="RequestContext Methods" Url="html/Methods_T_VSCode_RequestContext.htm">
+          <HelpTOCNode Title="SendError Method " Url="html/M_VSCode_RequestContext_SendError.htm" />
+          <HelpTOCNode Title="SendResult Method " Url="html/M_VSCode_RequestContext_SendResult.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4e530e1d-6b34-487b-93d9-6254344e6bb7" Title="RequestContext Events" Url="html/Events_T_VSCode_RequestContext.htm">
+          <HelpTOCNode Title="RequestCancelled Event" Url="html/E_VSCode_RequestContext_RequestCancelled.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b023f8ea-1fc8-4768-bbb9-4e1917f9f780" Title="ServerCapabilities Class" Url="html/T_VSCode_ServerCapabilities.htm">
+        <HelpTOCNode Title="ServerCapabilities Constructor " Url="html/M_VSCode_ServerCapabilities__ctor.htm" />
+        <HelpTOCNode Id="5097ab81-18bb-4ea0-8f09-09a37843a839" Title="ServerCapabilities Properties" Url="html/Properties_T_VSCode_ServerCapabilities.htm">
+          <HelpTOCNode Title="TextDocumentSync Property " Url="html/P_VSCode_ServerCapabilities_TextDocumentSync.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ServerCapabilities Methods" Url="html/Methods_T_VSCode_ServerCapabilities.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c051b70f-0f75-4f84-9f07-1e5ef661daf3" Title="TextDocumentIdentifier Class" Url="html/T_VSCode_TextDocumentIdentifier.htm">
+        <HelpTOCNode Title="TextDocumentIdentifier Constructor " Url="html/M_VSCode_TextDocumentIdentifier__ctor.htm" />
+        <HelpTOCNode Id="f49c2675-c333-47f9-9bf7-be3836f317cc" Title="TextDocumentIdentifier Properties" Url="html/Properties_T_VSCode_TextDocumentIdentifier.htm">
+          <HelpTOCNode Title="Uri Property " Url="html/P_VSCode_TextDocumentIdentifier_Uri.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextDocumentIdentifier Methods" Url="html/Methods_T_VSCode_TextDocumentIdentifier.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="834306b3-d1a2-4cbf-acf8-4874fa0e5306" Title="TextDocumentItem Class" Url="html/T_VSCode_TextDocumentItem.htm">
+        <HelpTOCNode Title="TextDocumentItem Constructor " Url="html/M_VSCode_TextDocumentItem__ctor.htm" />
+        <HelpTOCNode Id="4a586306-ed4a-46b3-b1e4-978fb6cf12a1" Title="TextDocumentItem Properties" Url="html/Properties_T_VSCode_TextDocumentItem.htm">
+          <HelpTOCNode Title="LanguageId Property " Url="html/P_VSCode_TextDocumentItem_LanguageId.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_VSCode_TextDocumentItem_Text.htm" />
+          <HelpTOCNode Title="Uri Property " Url="html/P_VSCode_TextDocumentItem_Uri.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_VSCode_TextDocumentItem_Version.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextDocumentItem Methods" Url="html/Methods_T_VSCode_TextDocumentItem.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dbefaf2e-295b-46cc-a808-f8f56e63fa3e" Title="TextDocumentPositionParams Class" Url="html/T_VSCode_TextDocumentPositionParams.htm">
+        <HelpTOCNode Title="TextDocumentPositionParams Constructor " Url="html/M_VSCode_TextDocumentPositionParams__ctor.htm" />
+        <HelpTOCNode Id="01085ee6-a1cd-4b4f-b1d8-ed62ddcc35da" Title="TextDocumentPositionParams Properties" Url="html/Properties_T_VSCode_TextDocumentPositionParams.htm">
+          <HelpTOCNode Title="Position Property " Url="html/P_VSCode_TextDocumentPositionParams_Position.htm" />
+          <HelpTOCNode Title="TextDocument Property " Url="html/P_VSCode_TextDocumentPositionParams_TextDocument.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextDocumentPositionParams Methods" Url="html/Methods_T_VSCode_TextDocumentPositionParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="TextDocumentSyncKind Enumeration" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+      <HelpTOCNode Id="3a3a9d46-3efa-4dbc-b86d-d4ef9a23d5ea" Title="TextEdit Class" Url="html/T_VSCode_TextEdit.htm">
+        <HelpTOCNode Title="TextEdit Constructor " Url="html/M_VSCode_TextEdit__ctor.htm" />
+        <HelpTOCNode Id="903999be-b73a-4b33-94df-ed8c1e37dbb5" Title="TextEdit Properties" Url="html/Properties_T_VSCode_TextEdit.htm">
+          <HelpTOCNode Title="NewText Property " Url="html/P_VSCode_TextEdit_NewText.htm" />
+          <HelpTOCNode Title="Range Property " Url="html/P_VSCode_TextEdit_Range.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextEdit Methods" Url="html/Methods_T_VSCode_TextEdit.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dc316917-a1ce-431f-af61-a9492a3fe924" Title="VersionedTextDocumentIdentifier Class" Url="html/T_VSCode_VersionedTextDocumentIdentifier.htm">
+        <HelpTOCNode Title="VersionedTextDocumentIdentifier Constructor " Url="html/M_VSCode_VersionedTextDocumentIdentifier__ctor.htm" />
+        <HelpTOCNode Id="7463f6cc-3b7f-4eab-8437-b8282fb71422" Title="VersionedTextDocumentIdentifier Properties" Url="html/Properties_T_VSCode_VersionedTextDocumentIdentifier.htm">
+          <HelpTOCNode Title="Version Property " Url="html/P_VSCode_VersionedTextDocumentIdentifier_Version.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="VersionedTextDocumentIdentifier Methods" Url="html/Methods_T_VSCode_VersionedTextDocumentIdentifier.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9ce96743-e912-4e69-90f2-c22c924128e5" Title="VSCode.Editor" Url="html/N_VSCode_Editor.htm">
+      <HelpTOCNode Id="02f4c1a9-4078-4563-be6f-28bd78560ac2" Title="DidChangeConfigurationParams Class" Url="html/T_VSCode_Editor_DidChangeConfigurationParams.htm">
+        <HelpTOCNode Title="DidChangeConfigurationParams Constructor " Url="html/M_VSCode_Editor_DidChangeConfigurationParams__ctor.htm" />
+        <HelpTOCNode Id="f6aea96b-a522-4962-a40d-25d308e889f4" Title="DidChangeConfigurationParams Properties" Url="html/Properties_T_VSCode_Editor_DidChangeConfigurationParams.htm">
+          <HelpTOCNode Title="Settings Property " Url="html/P_VSCode_Editor_DidChangeConfigurationParams_Settings.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidChangeConfigurationParams Methods" Url="html/Methods_T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e013baf9-300e-457e-b116-9a80f091fc96" Title="DidChangeTextDocumentParams Class" Url="html/T_VSCode_Editor_DidChangeTextDocumentParams.htm">
+        <HelpTOCNode Title="DidChangeTextDocumentParams Constructor " Url="html/M_VSCode_Editor_DidChangeTextDocumentParams__ctor.htm" />
+        <HelpTOCNode Id="89dd5954-17a3-4ac5-8e4c-f9651293daba" Title="DidChangeTextDocumentParams Properties" Url="html/Properties_T_VSCode_Editor_DidChangeTextDocumentParams.htm">
+          <HelpTOCNode Title="ContentChanges Property " Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_ContentChanges.htm" />
+          <HelpTOCNode Title="TextDocument Property " Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_TextDocument.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidChangeTextDocumentParams Methods" Url="html/Methods_T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="caa09ea3-0af8-4cc7-8e2b-12656ad16d80" Title="DidChangeWatchedFilesParams Class" Url="html/T_VSCode_Editor_DidChangeWatchedFilesParams.htm">
+        <HelpTOCNode Title="DidChangeWatchedFilesParams Constructor " Url="html/M_VSCode_Editor_DidChangeWatchedFilesParams__ctor.htm" />
+        <HelpTOCNode Id="d5147b1e-c354-4067-ab0a-25bd36b3550b" Title="DidChangeWatchedFilesParams Properties" Url="html/Properties_T_VSCode_Editor_DidChangeWatchedFilesParams.htm">
+          <HelpTOCNode Title="Changes Property " Url="html/P_VSCode_Editor_DidChangeWatchedFilesParams_Changes.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidChangeWatchedFilesParams Methods" Url="html/Methods_T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dadb961f-5a1d-44f5-b3db-aaa94d2b4949" Title="DidCloseTextDocumentParams Class" Url="html/T_VSCode_Editor_DidCloseTextDocumentParams.htm">
+        <HelpTOCNode Title="DidCloseTextDocumentParams Constructor " Url="html/M_VSCode_Editor_DidCloseTextDocumentParams__ctor.htm" />
+        <HelpTOCNode Id="c6a0bf58-482e-4aab-85ff-ef2b4b1896a4" Title="DidCloseTextDocumentParams Properties" Url="html/Properties_T_VSCode_Editor_DidCloseTextDocumentParams.htm">
+          <HelpTOCNode Title="TextDocument Property " Url="html/P_VSCode_Editor_DidCloseTextDocumentParams_TextDocument.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidCloseTextDocumentParams Methods" Url="html/Methods_T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="03fe6371-a5f4-4f56-bde9-8adc271e5a36" Title="DidOpenTextDocumentParams Class" Url="html/T_VSCode_Editor_DidOpenTextDocumentParams.htm">
+        <HelpTOCNode Title="DidOpenTextDocumentParams Constructor " Url="html/M_VSCode_Editor_DidOpenTextDocumentParams__ctor.htm" />
+        <HelpTOCNode Id="a76f0de0-42fc-4e13-b132-c762b1961f30" Title="DidOpenTextDocumentParams Properties" Url="html/Properties_T_VSCode_Editor_DidOpenTextDocumentParams.htm">
+          <HelpTOCNode Title="TextDocument Property " Url="html/P_VSCode_Editor_DidOpenTextDocumentParams_TextDocument.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidOpenTextDocumentParams Methods" Url="html/Methods_T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2caa592e-916d-471d-b13f-b91f278f58bb" Title="DidSaveTextDocumentParams Class" Url="html/T_VSCode_Editor_DidSaveTextDocumentParams.htm">
+        <HelpTOCNode Title="DidSaveTextDocumentParams Constructor " Url="html/M_VSCode_Editor_DidSaveTextDocumentParams__ctor.htm" />
+        <HelpTOCNode Id="5b636cdf-92d9-42f8-8ab9-78fb6b47c7cc" Title="DidSaveTextDocumentParams Properties" Url="html/Properties_T_VSCode_Editor_DidSaveTextDocumentParams.htm">
+          <HelpTOCNode Title="TextDocument Property " Url="html/P_VSCode_Editor_DidSaveTextDocumentParams_TextDocument.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DidSaveTextDocumentParams Methods" Url="html/Methods_T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="edcf4782-ab51-46b8-9dcc-b03d2a7b918d" Title="EditorFeature Class" Url="html/T_VSCode_Editor_EditorFeature.htm">
+        <HelpTOCNode Title="EditorFeature Constructor " Url="html/M_VSCode_Editor_EditorFeature__ctor.htm" />
+        <HelpTOCNode Id="24671c19-9942-421c-822a-6f2dc91817cb" Title="EditorFeature Properties" Url="html/Properties_T_VSCode_Editor_EditorFeature.htm">
+          <HelpTOCNode Title="Workspace Property " Url="html/P_VSCode_Editor_EditorFeature_Workspace.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="452037b2-b91d-44de-b9ba-90fb7cda7ba9" Title="EditorFeature Methods" Url="html/Methods_T_VSCode_Editor_EditorFeature.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_VSCode_Editor_EditorFeature_Dispose.htm" />
+          <HelpTOCNode Title="Initialize Method " Url="html/M_VSCode_Editor_EditorFeature_Initialize.htm" />
+          <HelpTOCNode Title="LogMessage Method " Url="html/M_VSCode_Editor_EditorFeature_LogMessage.htm" />
+          <HelpTOCNode Title="ShowMessage Method " Url="html/M_VSCode_Editor_EditorFeature_ShowMessage.htm" />
+          <HelpTOCNode Title="ShowMessageAsync Method " Url="html/M_VSCode_Editor_EditorFeature_ShowMessageAsync.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="38975b30-8f13-4481-98f3-78a85a1320f7" Title="EditorFeature Events" Url="html/Events_T_VSCode_Editor_EditorFeature.htm">
+          <HelpTOCNode Title="ConfigurationChanged Event" Url="html/E_VSCode_Editor_EditorFeature_ConfigurationChanged.htm" />
+          <HelpTOCNode Title="TextDocumentChanged Event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentChanged.htm" />
+          <HelpTOCNode Title="TextDocumentClosed Event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentClosed.htm" />
+          <HelpTOCNode Title="TextDocumentOpened Event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentOpened.htm" />
+          <HelpTOCNode Title="TextDocumentSaved Event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentSaved.htm" />
+          <HelpTOCNode Title="WatchedFilesChanged Event" Url="html/E_VSCode_Editor_EditorFeature_WatchedFilesChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="16894215-ed98-4b51-8d4d-f9e4f74451a2" Title="EditorMethods Class" Url="html/T_VSCode_Editor_EditorMethods.htm">
+        <HelpTOCNode Id="23e0db91-532f-4da2-8742-f47570f26699" Title="EditorMethods Fields" Url="html/Fields_T_VSCode_Editor_EditorMethods.htm">
+          <HelpTOCNode Title="DidChangeConfiguration Field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeConfiguration.htm" />
+          <HelpTOCNode Title="DidChangeTextDocument Field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeTextDocument.htm" />
+          <HelpTOCNode Title="DidChangeWatchedFiles Field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeWatchedFiles.htm" />
+          <HelpTOCNode Title="DidCloseTextDocument Field" Url="html/F_VSCode_Editor_EditorMethods_DidCloseTextDocument.htm" />
+          <HelpTOCNode Title="DidOpenTextDocument Field" Url="html/F_VSCode_Editor_EditorMethods_DidOpenTextDocument.htm" />
+          <HelpTOCNode Title="DidSaveTextDocument Field" Url="html/F_VSCode_Editor_EditorMethods_DidSaveTextDocument.htm" />
+          <HelpTOCNode Title="LogMessage Field" Url="html/F_VSCode_Editor_EditorMethods_LogMessage.htm" />
+          <HelpTOCNode Title="ShowMessage Field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessage.htm" />
+          <HelpTOCNode Title="ShowMessageRequest Field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessageRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="FileChangeType Enumeration" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+      <HelpTOCNode Id="4feee304-dc06-4b01-a9ca-b7d38dfb6583" Title="FileEvent Class" Url="html/T_VSCode_Editor_FileEvent.htm">
+        <HelpTOCNode Title="FileEvent Constructor " Url="html/M_VSCode_Editor_FileEvent__ctor.htm" />
+        <HelpTOCNode Id="8d7dc036-52f4-44d8-a16c-6128428d0257" Title="FileEvent Properties" Url="html/Properties_T_VSCode_Editor_FileEvent.htm">
+          <HelpTOCNode Title="Type Property " Url="html/P_VSCode_Editor_FileEvent_Type.htm" />
+          <HelpTOCNode Title="Uri Property " Url="html/P_VSCode_Editor_FileEvent_Uri.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="FileEvent Methods" Url="html/Methods_T_VSCode_Editor_FileEvent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a66db88a-ac79-4a6d-9d45-17d7b549dfa5" Title="LogMessageParams Class" Url="html/T_VSCode_Editor_LogMessageParams.htm">
+        <HelpTOCNode Title="LogMessageParams Constructor " Url="html/M_VSCode_Editor_LogMessageParams__ctor.htm" />
+        <HelpTOCNode Id="273e8774-a20c-427e-ad64-b006bbdd1152" Title="LogMessageParams Properties" Url="html/Properties_T_VSCode_Editor_LogMessageParams.htm">
+          <HelpTOCNode Title="Message Property " Url="html/P_VSCode_Editor_LogMessageParams_Message.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_VSCode_Editor_LogMessageParams_Type.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LogMessageParams Methods" Url="html/Methods_T_VSCode_Editor_LogMessageParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="df25bf5e-4c12-4564-89f4-8f3004a9b41d" Title="MessageActionItem Class" Url="html/T_VSCode_Editor_MessageActionItem.htm">
+        <HelpTOCNode Id="440fbeb8-2b0f-4821-bcdd-4a0a46ee35b9" Title="MessageActionItem Constructor " Url="html/Overload_VSCode_Editor_MessageActionItem__ctor.htm">
+          <HelpTOCNode Title="MessageActionItem Constructor " Url="html/M_VSCode_Editor_MessageActionItem__ctor.htm" />
+          <HelpTOCNode Title="MessageActionItem Constructor (String)" Url="html/M_VSCode_Editor_MessageActionItem__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3c499657-7cc0-4338-8e11-96b45f86d638" Title="MessageActionItem Properties" Url="html/Properties_T_VSCode_Editor_MessageActionItem.htm">
+          <HelpTOCNode Title="Title Property " Url="html/P_VSCode_Editor_MessageActionItem_Title.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MessageActionItem Methods" Url="html/Methods_T_VSCode_Editor_MessageActionItem.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MessageType Enumeration" Url="html/T_VSCode_Editor_MessageType.htm" />
+      <HelpTOCNode Id="e3278365-a0a5-4bc5-9e46-283db79ed3b5" Title="ShowMessageParams Class" Url="html/T_VSCode_Editor_ShowMessageParams.htm">
+        <HelpTOCNode Title="ShowMessageParams Constructor " Url="html/M_VSCode_Editor_ShowMessageParams__ctor.htm" />
+        <HelpTOCNode Id="90e455c6-8efa-4873-a51b-ffa72c59c435" Title="ShowMessageParams Properties" Url="html/Properties_T_VSCode_Editor_ShowMessageParams.htm">
+          <HelpTOCNode Title="Message Property " Url="html/P_VSCode_Editor_ShowMessageParams_Message.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_VSCode_Editor_ShowMessageParams_Type.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ShowMessageParams Methods" Url="html/Methods_T_VSCode_Editor_ShowMessageParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c4cef81f-8c2f-4e5c-a59e-58c421bada31" Title="ShowMessageRequestParams Class" Url="html/T_VSCode_Editor_ShowMessageRequestParams.htm">
+        <HelpTOCNode Title="ShowMessageRequestParams Constructor " Url="html/M_VSCode_Editor_ShowMessageRequestParams__ctor.htm" />
+        <HelpTOCNode Id="92ef2534-4f9e-4027-b278-3f3588e47478" Title="ShowMessageRequestParams Properties" Url="html/Properties_T_VSCode_Editor_ShowMessageRequestParams.htm">
+          <HelpTOCNode Title="Actions Property " Url="html/P_VSCode_Editor_ShowMessageRequestParams_Actions.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_VSCode_Editor_ShowMessageRequestParams_Message.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_VSCode_Editor_ShowMessageRequestParams_Type.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ShowMessageRequestParams Methods" Url="html/Methods_T_VSCode_Editor_ShowMessageRequestParams.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c59d0797-620b-4a8f-a1b8-127479e285dc" Title="TextDocumentContentChangeEvent Class" Url="html/T_VSCode_Editor_TextDocumentContentChangeEvent.htm">
+        <HelpTOCNode Title="TextDocumentContentChangeEvent Constructor " Url="html/M_VSCode_Editor_TextDocumentContentChangeEvent__ctor.htm" />
+        <HelpTOCNode Id="f5487d1a-8c81-4f43-87a1-52ddec59a61e" Title="TextDocumentContentChangeEvent Properties" Url="html/Properties_T_VSCode_Editor_TextDocumentContentChangeEvent.htm">
+          <HelpTOCNode Title="Range Property " Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Range.htm" />
+          <HelpTOCNode Title="RangeLength Property " Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_RangeLength.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Text.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="TextDocumentContentChangeEvent Methods" Url="html/Methods_T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="356f79fc-b9a7-48d9-bb40-17037d5ae7c7" Title="Workspace Class" Url="html/T_VSCode_Editor_Workspace.htm">
+        <HelpTOCNode Title="Workspace Constructor " Url="html/M_VSCode_Editor_Workspace__ctor.htm" />
+        <HelpTOCNode Id="919785bd-c598-4ce8-a20a-2c39d0a9d6fc" Title="Workspace Properties" Url="html/Properties_T_VSCode_Editor_Workspace.htm">
+          <HelpTOCNode Title="Documents Property " Url="html/P_VSCode_Editor_Workspace_Documents.htm" />
+          <HelpTOCNode Title="State Property " Url="html/P_VSCode_Editor_Workspace_State.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8fd88c22-f89a-44b6-a2d6-84fd25463633" Title="Workspace Methods" Url="html/Methods_T_VSCode_Editor_Workspace.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_VSCode_Editor_Workspace_Dispose.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2e54dd1b-74b4-4822-8c9e-377a94cdf5e9" Title="Workspace Events" Url="html/Events_T_VSCode_Editor_Workspace.htm">
+          <HelpTOCNode Title="DocumentChanged Event" Url="html/E_VSCode_Editor_Workspace_DocumentChanged.htm" />
+          <HelpTOCNode Title="DocumentClosed Event" Url="html/E_VSCode_Editor_Workspace_DocumentClosed.htm" />
+          <HelpTOCNode Title="DocumentOpened Event" Url="html/E_VSCode_Editor_Workspace_DocumentOpened.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="621945e7-c854-4821-b572-19e9d58d4f87" Title="WorkspaceDocument Class" Url="html/T_VSCode_Editor_WorkspaceDocument.htm">
+        <HelpTOCNode Title="WorkspaceDocument Constructor " Url="html/M_VSCode_Editor_WorkspaceDocument__ctor.htm" />
+        <HelpTOCNode Id="c3a368b6-c555-4a77-92a6-60229a5f3748" Title="WorkspaceDocument Properties" Url="html/Properties_T_VSCode_Editor_WorkspaceDocument.htm">
+          <HelpTOCNode Title="LanguageId Property " Url="html/P_VSCode_Editor_WorkspaceDocument_LanguageId.htm" />
+          <HelpTOCNode Title="State Property " Url="html/P_VSCode_Editor_WorkspaceDocument_State.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Text.htm" />
+          <HelpTOCNode Title="Uri Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Uri.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Version.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="WorkspaceDocument Methods" Url="html/Methods_T_VSCode_Editor_WorkspaceDocument.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1243cf23-0480-491b-a891-bca892657b3b" Title="VSCode.JsonRpc" Url="html/N_VSCode_JsonRpc.htm">
+      <HelpTOCNode Id="71057995-0435-46da-8fa0-7fddc8265345" Title="ErrorCodes Class" Url="html/T_VSCode_JsonRpc_ErrorCodes.htm">
+        <HelpTOCNode Id="73c4318d-45cc-43c4-a785-e05fe8664b9f" Title="ErrorCodes Fields" Url="html/Fields_T_VSCode_JsonRpc_ErrorCodes.htm">
+          <HelpTOCNode Title="InternalError Field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InternalError.htm" />
+          <HelpTOCNode Title="InvalidParams Field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidParams.htm" />
+          <HelpTOCNode Title="InvalidRequest Field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidRequest.htm" />
+          <HelpTOCNode Title="MethodNotFound Field" Url="html/F_VSCode_JsonRpc_ErrorCodes_MethodNotFound.htm" />
+          <HelpTOCNode Title="ParseError Field" Url="html/F_VSCode_JsonRpc_ErrorCodes_ParseError.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="54bc5918-13ca-4281-a948-b5ba8d610c53" Title="IMessage Interface" Url="html/T_VSCode_JsonRpc_IMessage.htm">
+        <HelpTOCNode Id="5f296443-742c-4f16-8259-5a30bf42aa33" Title="IMessage Properties" Url="html/Properties_T_VSCode_JsonRpc_IMessage.htm">
+          <HelpTOCNode Title="Jsonrpc Property " Url="html/P_VSCode_JsonRpc_IMessage_Jsonrpc.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a100224-98ee-4ec4-918d-8e5c748e2d7a" Title="NotificationMessage Class" Url="html/T_VSCode_JsonRpc_NotificationMessage.htm">
+        <HelpTOCNode Title="NotificationMessage Constructor " Url="html/M_VSCode_JsonRpc_NotificationMessage__ctor.htm" />
+        <HelpTOCNode Id="a668b87c-813c-4fd0-b437-b2d3451bf448" Title="NotificationMessage Properties" Url="html/Properties_T_VSCode_JsonRpc_NotificationMessage.htm">
+          <HelpTOCNode Title="Jsonrpc Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Jsonrpc.htm" />
+          <HelpTOCNode Title="Method Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Method.htm" />
+          <HelpTOCNode Title="Params Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Params.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="NotificationMessage Methods" Url="html/Methods_T_VSCode_JsonRpc_NotificationMessage.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d752541d-999a-4aba-9791-f2f82be1bf5a" Title="ObjectExtensions Class" Url="html/T_VSCode_JsonRpc_ObjectExtensions.htm">
+        <HelpTOCNode Id="5bc5f32d-ab04-4e44-bb7e-e13e492261a9" Title="ObjectExtensions Methods" Url="html/Methods_T_VSCode_JsonRpc_ObjectExtensions.htm">
+          <HelpTOCNode Title="ToJObject Method " Url="html/M_VSCode_JsonRpc_ObjectExtensions_ToJObject.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="16a4acbd-9531-4bb3-81e7-95075e42e53d" Title="RequestMessage Class" Url="html/T_VSCode_JsonRpc_RequestMessage.htm">
+        <HelpTOCNode Title="RequestMessage Constructor " Url="html/M_VSCode_JsonRpc_RequestMessage__ctor.htm" />
+        <HelpTOCNode Id="0dda43dd-b19d-4323-aadc-11af10c0df0d" Title="RequestMessage Properties" Url="html/Properties_T_VSCode_JsonRpc_RequestMessage.htm">
+          <HelpTOCNode Title="Id Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Id.htm" />
+          <HelpTOCNode Title="Jsonrpc Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Jsonrpc.htm" />
+          <HelpTOCNode Title="Method Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Method.htm" />
+          <HelpTOCNode Title="Params Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Params.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RequestMessage Methods" Url="html/Methods_T_VSCode_JsonRpc_RequestMessage.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4b626809-afc4-4915-aafb-a231df8cbeb2" Title="ResponseMessage Class" Url="html/T_VSCode_JsonRpc_ResponseMessage.htm">
+        <HelpTOCNode Title="ResponseMessage Constructor " Url="html/M_VSCode_JsonRpc_ResponseMessage__ctor.htm" />
+        <HelpTOCNode Id="8e77c3f3-8ede-4d5e-aa71-175c3ae5ba5a" Title="ResponseMessage Properties" Url="html/Properties_T_VSCode_JsonRpc_ResponseMessage.htm">
+          <HelpTOCNode Title="Error Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Error.htm" />
+          <HelpTOCNode Title="Id Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Id.htm" />
+          <HelpTOCNode Title="Jsonrpc Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Jsonrpc.htm" />
+          <HelpTOCNode Title="Result Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Result.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ResponseMessage Methods" Url="html/Methods_T_VSCode_JsonRpc_ResponseMessage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

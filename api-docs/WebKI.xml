@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Actions property" Url="html/P_VSCode_Editor_ShowMessageRequestParams_Actions.htm" />
+  <HelpKINode Title="Arguments property" Url="html/P_VSCode_EditorCommand_Arguments.htm" />
+  <HelpKINode Title="CancelRequest field" Url="html/F_VSCode_CoreMethods_CancelRequest.htm" />
+  <HelpKINode Title="Capabilities property">
+    <HelpKINode Title="InitializeParams.Capabilities Property " Url="html/P_VSCode_InitializeParams_Capabilities.htm" />
+    <HelpKINode Title="InitializeResult.Capabilities Property " Url="html/P_VSCode_InitializeResult_Capabilities.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Changed enumeration member" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+  <HelpKINode Title="Changes property" Url="html/P_VSCode_Editor_DidChangeWatchedFilesParams_Changes.htm" />
+  <HelpKINode Title="Character property" Url="html/P_VSCode_Position_Character.htm" />
+  <HelpKINode Title="ClientCapabilities class">
+    <HelpKINode Title="ClientCapabilities Class" Url="html/T_VSCode_ClientCapabilities.htm" />
+    <HelpKINode Title="about ClientCapabilities class" Url="html/T_VSCode_ClientCapabilities.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_ClientCapabilities__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_ClientCapabilities.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClientCapabilities.ClientCapabilities constructor" Url="html/M_VSCode_ClientCapabilities__ctor.htm" />
+  <HelpKINode Title="Code property" Url="html/P_VSCode_Diagnostic_Code.htm" />
+  <HelpKINode Title="Command property" Url="html/P_VSCode_EditorCommand_Command.htm" />
+  <HelpKINode Title="ConfigurationChanged event" Url="html/E_VSCode_Editor_EditorFeature_ConfigurationChanged.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/T_VSCode_Constants.htm" />
+    <HelpKINode Title="about Constants class" Url="html/T_VSCode_Constants.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.JsonRpc class">
+    <HelpKINode Title="Constants.JsonRpc Class" Url="html/T_VSCode_Constants_JsonRpc.htm" />
+    <HelpKINode Title="about Constants.JsonRpc class" Url="html/T_VSCode_Constants_JsonRpc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.JsonRpc.Properties class">
+    <HelpKINode Title="Constants.JsonRpc.Properties Class" Url="html/T_VSCode_Constants_JsonRpc_Properties.htm" />
+    <HelpKINode Title="about Constants.JsonRpc.Properties class" Url="html/T_VSCode_Constants_JsonRpc_Properties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.JsonRpc.Properties.Error field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Error.htm" />
+  <HelpKINode Title="Constants.JsonRpc.Properties.Id field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Id.htm" />
+  <HelpKINode Title="Constants.JsonRpc.Properties.JsonRpc field" Url="html/F_VSCode_Constants_JsonRpc_Properties_JsonRpc.htm" />
+  <HelpKINode Title="Constants.JsonRpc.Properties.Method field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Method.htm" />
+  <HelpKINode Title="Constants.JsonRpc.Properties.Params field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Params.htm" />
+  <HelpKINode Title="Constants.JsonRpc.Properties.Result field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Result.htm" />
+  <HelpKINode Title="Constants.JsonRpc.SupportedVersion field" Url="html/F_VSCode_Constants_JsonRpc_SupportedVersion.htm" />
+  <HelpKINode Title="ContentChanges property" Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_ContentChanges.htm" />
+  <HelpKINode Title="CoreMethods class">
+    <HelpKINode Title="CoreMethods Class" Url="html/T_VSCode_CoreMethods.htm" />
+    <HelpKINode Title="about CoreMethods class" Url="html/T_VSCode_CoreMethods.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_VSCode_CoreMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CoreMethods.CancelRequest field" Url="html/F_VSCode_CoreMethods_CancelRequest.htm" />
+  <HelpKINode Title="CoreMethods.Exit field" Url="html/F_VSCode_CoreMethods_Exit.htm" />
+  <HelpKINode Title="CoreMethods.Initialize field" Url="html/F_VSCode_CoreMethods_Initialize.htm" />
+  <HelpKINode Title="CoreMethods.Shutdown field" Url="html/F_VSCode_CoreMethods_Shutdown.htm" />
+  <HelpKINode Title="Created enumeration member" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+  <HelpKINode Title="Deleted enumeration member" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+  <HelpKINode Title="Diagnostic class">
+    <HelpKINode Title="Diagnostic Class" Url="html/T_VSCode_Diagnostic.htm" />
+    <HelpKINode Title="about Diagnostic class" Url="html/T_VSCode_Diagnostic.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Diagnostic__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Diagnostic.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Diagnostic.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Diagnostic.Code property" Url="html/P_VSCode_Diagnostic_Code.htm" />
+  <HelpKINode Title="Diagnostic.Diagnostic constructor" Url="html/M_VSCode_Diagnostic__ctor.htm" />
+  <HelpKINode Title="Diagnostic.Message property" Url="html/P_VSCode_Diagnostic_Message.htm" />
+  <HelpKINode Title="Diagnostic.Range property" Url="html/P_VSCode_Diagnostic_Range.htm" />
+  <HelpKINode Title="Diagnostic.Severity property" Url="html/P_VSCode_Diagnostic_Severity.htm" />
+  <HelpKINode Title="Diagnostic.Source property" Url="html/P_VSCode_Diagnostic_Source.htm" />
+  <HelpKINode Title="DiagnosticSeverity enumeration" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+  <HelpKINode Title="DidChangeConfiguration field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeConfiguration.htm" />
+  <HelpKINode Title="DidChangeConfigurationParams class">
+    <HelpKINode Title="DidChangeConfigurationParams Class" Url="html/T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+    <HelpKINode Title="about DidChangeConfigurationParams class" Url="html/T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidChangeConfigurationParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidChangeConfigurationParams.DidChangeConfigurationParams constructor" Url="html/M_VSCode_Editor_DidChangeConfigurationParams__ctor.htm" />
+  <HelpKINode Title="DidChangeConfigurationParams.Settings property" Url="html/P_VSCode_Editor_DidChangeConfigurationParams_Settings.htm" />
+  <HelpKINode Title="DidChangeTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeTextDocument.htm" />
+  <HelpKINode Title="DidChangeTextDocumentParams class">
+    <HelpKINode Title="DidChangeTextDocumentParams Class" Url="html/T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+    <HelpKINode Title="about DidChangeTextDocumentParams class" Url="html/T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidChangeTextDocumentParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidChangeTextDocumentParams.ContentChanges property" Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_ContentChanges.htm" />
+  <HelpKINode Title="DidChangeTextDocumentParams.DidChangeTextDocumentParams constructor" Url="html/M_VSCode_Editor_DidChangeTextDocumentParams__ctor.htm" />
+  <HelpKINode Title="DidChangeTextDocumentParams.TextDocument property" Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_TextDocument.htm" />
+  <HelpKINode Title="DidChangeWatchedFiles field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeWatchedFiles.htm" />
+  <HelpKINode Title="DidChangeWatchedFilesParams class">
+    <HelpKINode Title="DidChangeWatchedFilesParams Class" Url="html/T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+    <HelpKINode Title="about DidChangeWatchedFilesParams class" Url="html/T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidChangeWatchedFilesParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidChangeWatchedFilesParams.Changes property" Url="html/P_VSCode_Editor_DidChangeWatchedFilesParams_Changes.htm" />
+  <HelpKINode Title="DidChangeWatchedFilesParams.DidChangeWatchedFilesParams constructor" Url="html/M_VSCode_Editor_DidChangeWatchedFilesParams__ctor.htm" />
+  <HelpKINode Title="DidCloseTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidCloseTextDocument.htm" />
+  <HelpKINode Title="DidCloseTextDocumentParams class">
+    <HelpKINode Title="DidCloseTextDocumentParams Class" Url="html/T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+    <HelpKINode Title="about DidCloseTextDocumentParams class" Url="html/T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidCloseTextDocumentParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidCloseTextDocumentParams.DidCloseTextDocumentParams constructor" Url="html/M_VSCode_Editor_DidCloseTextDocumentParams__ctor.htm" />
+  <HelpKINode Title="DidCloseTextDocumentParams.TextDocument property" Url="html/P_VSCode_Editor_DidCloseTextDocumentParams_TextDocument.htm" />
+  <HelpKINode Title="DidOpenTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidOpenTextDocument.htm" />
+  <HelpKINode Title="DidOpenTextDocumentParams class">
+    <HelpKINode Title="DidOpenTextDocumentParams Class" Url="html/T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+    <HelpKINode Title="about DidOpenTextDocumentParams class" Url="html/T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidOpenTextDocumentParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidOpenTextDocumentParams.DidOpenTextDocumentParams constructor" Url="html/M_VSCode_Editor_DidOpenTextDocumentParams__ctor.htm" />
+  <HelpKINode Title="DidOpenTextDocumentParams.TextDocument property" Url="html/P_VSCode_Editor_DidOpenTextDocumentParams_TextDocument.htm" />
+  <HelpKINode Title="DidSaveTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidSaveTextDocument.htm" />
+  <HelpKINode Title="DidSaveTextDocumentParams class">
+    <HelpKINode Title="DidSaveTextDocumentParams Class" Url="html/T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+    <HelpKINode Title="about DidSaveTextDocumentParams class" Url="html/T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_DidSaveTextDocumentParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DidSaveTextDocumentParams.DidSaveTextDocumentParams constructor" Url="html/M_VSCode_Editor_DidSaveTextDocumentParams__ctor.htm" />
+  <HelpKINode Title="DidSaveTextDocumentParams.TextDocument property" Url="html/P_VSCode_Editor_DidSaveTextDocumentParams_TextDocument.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="EditorFeature.Dispose Method " Url="html/M_VSCode_Editor_EditorFeature_Dispose.htm" />
+    <HelpKINode Title="LanguageServer.Dispose Method " Url="html/M_VSCode_LanguageServer_Dispose.htm" />
+    <HelpKINode Title="Workspace.Dispose Method " Url="html/M_VSCode_Editor_Workspace_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DocumentChanged event" Url="html/E_VSCode_Editor_Workspace_DocumentChanged.htm" />
+  <HelpKINode Title="DocumentClosed event" Url="html/E_VSCode_Editor_Workspace_DocumentClosed.htm" />
+  <HelpKINode Title="DocumentOpened event" Url="html/E_VSCode_Editor_Workspace_DocumentOpened.htm" />
+  <HelpKINode Title="Documents property" Url="html/P_VSCode_Editor_Workspace_Documents.htm" />
+  <HelpKINode Title="Editor property" Url="html/P_VSCode_LanguageServer_Editor.htm" />
+  <HelpKINode Title="EditorCommand class">
+    <HelpKINode Title="EditorCommand Class" Url="html/T_VSCode_EditorCommand.htm" />
+    <HelpKINode Title="about EditorCommand class" Url="html/T_VSCode_EditorCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_EditorCommand__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_EditorCommand.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_EditorCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EditorCommand.Arguments property" Url="html/P_VSCode_EditorCommand_Arguments.htm" />
+  <HelpKINode Title="EditorCommand.Command property" Url="html/P_VSCode_EditorCommand_Command.htm" />
+  <HelpKINode Title="EditorCommand.EditorCommand constructor" Url="html/M_VSCode_EditorCommand__ctor.htm" />
+  <HelpKINode Title="EditorCommand.Title property" Url="html/P_VSCode_EditorCommand_Title.htm" />
+  <HelpKINode Title="EditorFeature class">
+    <HelpKINode Title="EditorFeature Class" Url="html/T_VSCode_Editor_EditorFeature.htm" />
+    <HelpKINode Title="about EditorFeature class" Url="html/T_VSCode_Editor_EditorFeature.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_EditorFeature__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_VSCode_Editor_EditorFeature.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_EditorFeature.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_EditorFeature.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EditorFeature.ConfigurationChanged event" Url="html/E_VSCode_Editor_EditorFeature_ConfigurationChanged.htm" />
+  <HelpKINode Title="EditorFeature.Dispose method" Url="html/M_VSCode_Editor_EditorFeature_Dispose.htm" />
+  <HelpKINode Title="EditorFeature.EditorFeature constructor" Url="html/M_VSCode_Editor_EditorFeature__ctor.htm" />
+  <HelpKINode Title="EditorFeature.Initialize method" Url="html/M_VSCode_Editor_EditorFeature_Initialize.htm" />
+  <HelpKINode Title="EditorFeature.LogMessage method" Url="html/M_VSCode_Editor_EditorFeature_LogMessage.htm" />
+  <HelpKINode Title="EditorFeature.ShowMessage method" Url="html/M_VSCode_Editor_EditorFeature_ShowMessage.htm" />
+  <HelpKINode Title="EditorFeature.ShowMessageAsync method" Url="html/M_VSCode_Editor_EditorFeature_ShowMessageAsync.htm" />
+  <HelpKINode Title="EditorFeature.TextDocumentChanged event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentChanged.htm" />
+  <HelpKINode Title="EditorFeature.TextDocumentClosed event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentClosed.htm" />
+  <HelpKINode Title="EditorFeature.TextDocumentOpened event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentOpened.htm" />
+  <HelpKINode Title="EditorFeature.TextDocumentSaved event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentSaved.htm" />
+  <HelpKINode Title="EditorFeature.WatchedFilesChanged event" Url="html/E_VSCode_Editor_EditorFeature_WatchedFilesChanged.htm" />
+  <HelpKINode Title="EditorFeature.Workspace property" Url="html/P_VSCode_Editor_EditorFeature_Workspace.htm" />
+  <HelpKINode Title="EditorMethods class">
+    <HelpKINode Title="EditorMethods Class" Url="html/T_VSCode_Editor_EditorMethods.htm" />
+    <HelpKINode Title="about EditorMethods class" Url="html/T_VSCode_Editor_EditorMethods.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_VSCode_Editor_EditorMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EditorMethods.DidChangeConfiguration field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeConfiguration.htm" />
+  <HelpKINode Title="EditorMethods.DidChangeTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeTextDocument.htm" />
+  <HelpKINode Title="EditorMethods.DidChangeWatchedFiles field" Url="html/F_VSCode_Editor_EditorMethods_DidChangeWatchedFiles.htm" />
+  <HelpKINode Title="EditorMethods.DidCloseTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidCloseTextDocument.htm" />
+  <HelpKINode Title="EditorMethods.DidOpenTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidOpenTextDocument.htm" />
+  <HelpKINode Title="EditorMethods.DidSaveTextDocument field" Url="html/F_VSCode_Editor_EditorMethods_DidSaveTextDocument.htm" />
+  <HelpKINode Title="EditorMethods.LogMessage field" Url="html/F_VSCode_Editor_EditorMethods_LogMessage.htm" />
+  <HelpKINode Title="EditorMethods.ShowMessage field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessage.htm" />
+  <HelpKINode Title="EditorMethods.ShowMessageRequest field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessageRequest.htm" />
+  <HelpKINode Title="End property" Url="html/P_VSCode_Range_End.htm" />
+  <HelpKINode Title="Error enumeration member">
+    <HelpKINode Title="DiagnosticSeverity Enumeration" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+    <HelpKINode Title="MessageType Enumeration" Url="html/T_VSCode_Editor_MessageType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Error.htm" />
+  <HelpKINode Title="Error property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Error.htm" />
+  <HelpKINode Title="ErrorCodes class">
+    <HelpKINode Title="ErrorCodes Class" Url="html/T_VSCode_JsonRpc_ErrorCodes.htm" />
+    <HelpKINode Title="about ErrorCodes class" Url="html/T_VSCode_JsonRpc_ErrorCodes.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_VSCode_JsonRpc_ErrorCodes.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorCodes.InternalError field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InternalError.htm" />
+  <HelpKINode Title="ErrorCodes.InvalidParams field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidParams.htm" />
+  <HelpKINode Title="ErrorCodes.InvalidRequest field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidRequest.htm" />
+  <HelpKINode Title="ErrorCodes.MethodNotFound field" Url="html/F_VSCode_JsonRpc_ErrorCodes_MethodNotFound.htm" />
+  <HelpKINode Title="ErrorCodes.ParseError field" Url="html/F_VSCode_JsonRpc_ErrorCodes_ParseError.htm" />
+  <HelpKINode Title="Exit event" Url="html/E_VSCode_LanguageServer_Exit.htm" />
+  <HelpKINode Title="Exit field" Url="html/F_VSCode_CoreMethods_Exit.htm" />
+  <HelpKINode Title="FeatureActivationException class">
+    <HelpKINode Title="FeatureActivationException Class" Url="html/T_VSCode_FeatureActivationException.htm" />
+    <HelpKINode Title="about FeatureActivationException class" Url="html/T_VSCode_FeatureActivationException.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_FeatureActivationException__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_FeatureActivationException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FeatureActivationException.FeatureActivationException constructor" Url="html/M_VSCode_FeatureActivationException__ctor.htm" />
+  <HelpKINode Title="FileChangeType enumeration" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+  <HelpKINode Title="FileEvent class">
+    <HelpKINode Title="FileEvent Class" Url="html/T_VSCode_Editor_FileEvent.htm" />
+    <HelpKINode Title="about FileEvent class" Url="html/T_VSCode_Editor_FileEvent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_FileEvent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_FileEvent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_FileEvent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FileEvent.FileEvent constructor" Url="html/M_VSCode_Editor_FileEvent__ctor.htm" />
+  <HelpKINode Title="FileEvent.Type property" Url="html/P_VSCode_Editor_FileEvent_Type.htm" />
+  <HelpKINode Title="FileEvent.Uri property" Url="html/P_VSCode_Editor_FileEvent_Uri.htm" />
+  <HelpKINode Title="Full enumeration member" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+  <HelpKINode Title="GetFeature(Of T) method" Url="html/M_VSCode_LanguageServer_GetFeature__1.htm" />
+  <HelpKINode Title="GetFeature&lt;T&gt; method" Url="html/M_VSCode_LanguageServer_GetFeature__1.htm" />
+  <HelpKINode Title="Hint enumeration member" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+  <HelpKINode Title="Id field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Id.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="RequestMessage.Id Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Id.htm" />
+    <HelpKINode Title="ResponseMessage.Id Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Id.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFeature interface">
+    <HelpKINode Title="IFeature Interface" Url="html/T_VSCode_IFeature.htm" />
+    <HelpKINode Title="about IFeature interface" Url="html/T_VSCode_IFeature.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_IFeature.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFeature.Initialize method" Url="html/M_VSCode_IFeature_Initialize.htm" />
+  <HelpKINode Title="IMessage interface">
+    <HelpKINode Title="IMessage Interface" Url="html/T_VSCode_JsonRpc_IMessage.htm" />
+    <HelpKINode Title="about IMessage interface" Url="html/T_VSCode_JsonRpc_IMessage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_JsonRpc_IMessage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMessage.Jsonrpc property" Url="html/P_VSCode_JsonRpc_IMessage_Jsonrpc.htm" />
+  <HelpKINode Title="Incremental enumeration member" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/T_VSCode_Editor_MessageType.htm" />
+  <HelpKINode Title="Information enumeration member" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+  <HelpKINode Title="Initialize event" Url="html/E_VSCode_LanguageServer_Initialize.htm" />
+  <HelpKINode Title="Initialize field" Url="html/F_VSCode_CoreMethods_Initialize.htm" />
+  <HelpKINode Title="Initialize method">
+    <HelpKINode Title="EditorFeature.Initialize Method " Url="html/M_VSCode_Editor_EditorFeature_Initialize.htm" />
+    <HelpKINode Title="IFeature.Initialize Method " Url="html/M_VSCode_IFeature_Initialize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitializeParams class">
+    <HelpKINode Title="InitializeParams Class" Url="html/T_VSCode_InitializeParams.htm" />
+    <HelpKINode Title="about InitializeParams class" Url="html/T_VSCode_InitializeParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_InitializeParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_InitializeParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_InitializeParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitializeParams.Capabilities property" Url="html/P_VSCode_InitializeParams_Capabilities.htm" />
+  <HelpKINode Title="InitializeParams.InitializeParams constructor" Url="html/M_VSCode_InitializeParams__ctor.htm" />
+  <HelpKINode Title="InitializeParams.ProcessId property" Url="html/P_VSCode_InitializeParams_ProcessId.htm" />
+  <HelpKINode Title="InitializeParams.RootPath property" Url="html/P_VSCode_InitializeParams_RootPath.htm" />
+  <HelpKINode Title="InitializeResult class">
+    <HelpKINode Title="InitializeResult Class" Url="html/T_VSCode_InitializeResult.htm" />
+    <HelpKINode Title="about InitializeResult class" Url="html/T_VSCode_InitializeResult.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_InitializeResult__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_InitializeResult.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_InitializeResult.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitializeResult.Capabilities property" Url="html/P_VSCode_InitializeResult_Capabilities.htm" />
+  <HelpKINode Title="InitializeResult.InitializeResult constructor" Url="html/M_VSCode_InitializeResult__ctor.htm" />
+  <HelpKINode Title="InternalError field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InternalError.htm" />
+  <HelpKINode Title="InvalidParams field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidParams.htm" />
+  <HelpKINode Title="InvalidRequest field" Url="html/F_VSCode_JsonRpc_ErrorCodes_InvalidRequest.htm" />
+  <HelpKINode Title="JsonRpc class">
+    <HelpKINode Title="fields" Url="html/Fields_T_VSCode_Constants_JsonRpc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="JsonRpc field" Url="html/F_VSCode_Constants_JsonRpc_Properties_JsonRpc.htm" />
+  <HelpKINode Title="Jsonrpc property">
+    <HelpKINode Title="IMessage.Jsonrpc Property " Url="html/P_VSCode_JsonRpc_IMessage_Jsonrpc.htm" />
+    <HelpKINode Title="NotificationMessage.Jsonrpc Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Jsonrpc.htm" />
+    <HelpKINode Title="RequestMessage.Jsonrpc Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Jsonrpc.htm" />
+    <HelpKINode Title="ResponseMessage.Jsonrpc Property " Url="html/P_VSCode_JsonRpc_ResponseMessage_Jsonrpc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LanguageId property">
+    <HelpKINode Title="TextDocumentItem.LanguageId Property " Url="html/P_VSCode_TextDocumentItem_LanguageId.htm" />
+    <HelpKINode Title="WorkspaceDocument.LanguageId Property " Url="html/P_VSCode_Editor_WorkspaceDocument_LanguageId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LanguageServer class">
+    <HelpKINode Title="LanguageServer Class" Url="html/T_VSCode_LanguageServer.htm" />
+    <HelpKINode Title="about LanguageServer class" Url="html/T_VSCode_LanguageServer.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_VSCode_LanguageServer__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_VSCode_LanguageServer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_LanguageServer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_LanguageServer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LanguageServer.Dispose method" Url="html/M_VSCode_LanguageServer_Dispose.htm" />
+  <HelpKINode Title="LanguageServer.Editor property" Url="html/P_VSCode_LanguageServer_Editor.htm" />
+  <HelpKINode Title="LanguageServer.Exit event" Url="html/E_VSCode_LanguageServer_Exit.htm" />
+  <HelpKINode Title="LanguageServer.GetFeature(Of T) method" Url="html/M_VSCode_LanguageServer_GetFeature__1.htm" />
+  <HelpKINode Title="LanguageServer.GetFeature&lt;T&gt; method" Url="html/M_VSCode_LanguageServer_GetFeature__1.htm" />
+  <HelpKINode Title="LanguageServer.Initialize event" Url="html/E_VSCode_LanguageServer_Initialize.htm" />
+  <HelpKINode Title="LanguageServer.LanguageServer constructor" Url="html/Overload_VSCode_LanguageServer__ctor.htm" />
+  <HelpKINode Title="LanguageServer.NotificationReceived event" Url="html/E_VSCode_LanguageServer_NotificationReceived.htm" />
+  <HelpKINode Title="LanguageServer.RequestReceived event" Url="html/E_VSCode_LanguageServer_RequestReceived.htm" />
+  <HelpKINode Title="LanguageServer.ResponseReceived event" Url="html/E_VSCode_LanguageServer_ResponseReceived.htm" />
+  <HelpKINode Title="LanguageServer.SendNotification method" Url="html/Overload_VSCode_LanguageServer_SendNotification.htm" />
+  <HelpKINode Title="LanguageServer.SendRequestAsync method" Url="html/Overload_VSCode_LanguageServer_SendRequestAsync.htm" />
+  <HelpKINode Title="LanguageServer.SendResponseAsync method" Url="html/Overload_VSCode_LanguageServer_SendResponseAsync.htm" />
+  <HelpKINode Title="LanguageServer.Start method" Url="html/M_VSCode_LanguageServer_Start.htm" />
+  <HelpKINode Title="LanguageServer.State property" Url="html/P_VSCode_LanguageServer_State.htm" />
+  <HelpKINode Title="LanguageServer.Stop method" Url="html/M_VSCode_LanguageServer_Stop.htm" />
+  <HelpKINode Title="LanguageServer.WaitForState method" Url="html/Overload_VSCode_LanguageServer_WaitForState.htm" />
+  <HelpKINode Title="LanguageServerState enumeration" Url="html/T_VSCode_LanguageServerState.htm" />
+  <HelpKINode Title="Line property" Url="html/P_VSCode_Position_Line.htm" />
+  <HelpKINode Title="Location class">
+    <HelpKINode Title="Location Class" Url="html/T_VSCode_Location.htm" />
+    <HelpKINode Title="about Location class" Url="html/T_VSCode_Location.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Location__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Location.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Location.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Location.Location constructor" Url="html/M_VSCode_Location__ctor.htm" />
+  <HelpKINode Title="Location.Range property" Url="html/P_VSCode_Location_Range.htm" />
+  <HelpKINode Title="Location.Uri property" Url="html/P_VSCode_Location_Uri.htm" />
+  <HelpKINode Title="Log enumeration member" Url="html/T_VSCode_Editor_MessageType.htm" />
+  <HelpKINode Title="LogMessage field" Url="html/F_VSCode_Editor_EditorMethods_LogMessage.htm" />
+  <HelpKINode Title="LogMessage method" Url="html/M_VSCode_Editor_EditorFeature_LogMessage.htm" />
+  <HelpKINode Title="LogMessageParams class">
+    <HelpKINode Title="LogMessageParams Class" Url="html/T_VSCode_Editor_LogMessageParams.htm" />
+    <HelpKINode Title="about LogMessageParams class" Url="html/T_VSCode_Editor_LogMessageParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_LogMessageParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_LogMessageParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_LogMessageParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogMessageParams.LogMessageParams constructor" Url="html/M_VSCode_Editor_LogMessageParams__ctor.htm" />
+  <HelpKINode Title="LogMessageParams.Message property" Url="html/P_VSCode_Editor_LogMessageParams_Message.htm" />
+  <HelpKINode Title="LogMessageParams.Type property" Url="html/P_VSCode_Editor_LogMessageParams_Type.htm" />
+  <HelpKINode Title="Message property">
+    <HelpKINode Title="Diagnostic.Message Property " Url="html/P_VSCode_Diagnostic_Message.htm" />
+    <HelpKINode Title="LogMessageParams.Message Property " Url="html/P_VSCode_Editor_LogMessageParams_Message.htm" />
+    <HelpKINode Title="ShowMessageParams.Message Property " Url="html/P_VSCode_Editor_ShowMessageParams_Message.htm" />
+    <HelpKINode Title="ShowMessageRequestParams.Message Property " Url="html/P_VSCode_Editor_ShowMessageRequestParams_Message.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageActionItem class">
+    <HelpKINode Title="MessageActionItem Class" Url="html/T_VSCode_Editor_MessageActionItem.htm" />
+    <HelpKINode Title="about MessageActionItem class" Url="html/T_VSCode_Editor_MessageActionItem.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_VSCode_Editor_MessageActionItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_MessageActionItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_MessageActionItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MessageActionItem.MessageActionItem constructor" Url="html/Overload_VSCode_Editor_MessageActionItem__ctor.htm" />
+  <HelpKINode Title="MessageActionItem.Title property" Url="html/P_VSCode_Editor_MessageActionItem_Title.htm" />
+  <HelpKINode Title="MessageType enumeration" Url="html/T_VSCode_Editor_MessageType.htm" />
+  <HelpKINode Title="Method field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Method.htm" />
+  <HelpKINode Title="Method property">
+    <HelpKINode Title="NotificationMessage.Method Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Method.htm" />
+    <HelpKINode Title="RequestMessage.Method Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Method.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MethodNotFound field" Url="html/F_VSCode_JsonRpc_ErrorCodes_MethodNotFound.htm" />
+  <HelpKINode Title="NewText property" Url="html/P_VSCode_TextEdit_NewText.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+  <HelpKINode Title="NotificationMessage class">
+    <HelpKINode Title="NotificationMessage Class" Url="html/T_VSCode_JsonRpc_NotificationMessage.htm" />
+    <HelpKINode Title="about NotificationMessage class" Url="html/T_VSCode_JsonRpc_NotificationMessage.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_JsonRpc_NotificationMessage__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_JsonRpc_NotificationMessage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_JsonRpc_NotificationMessage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotificationMessage.Jsonrpc property" Url="html/P_VSCode_JsonRpc_NotificationMessage_Jsonrpc.htm" />
+  <HelpKINode Title="NotificationMessage.Method property" Url="html/P_VSCode_JsonRpc_NotificationMessage_Method.htm" />
+  <HelpKINode Title="NotificationMessage.NotificationMessage constructor" Url="html/M_VSCode_JsonRpc_NotificationMessage__ctor.htm" />
+  <HelpKINode Title="NotificationMessage.Params property" Url="html/P_VSCode_JsonRpc_NotificationMessage_Params.htm" />
+  <HelpKINode Title="NotificationReceived event" Url="html/E_VSCode_LanguageServer_NotificationReceived.htm" />
+  <HelpKINode Title="ObjectExtensions class">
+    <HelpKINode Title="ObjectExtensions Class" Url="html/T_VSCode_JsonRpc_ObjectExtensions.htm" />
+    <HelpKINode Title="about ObjectExtensions class" Url="html/T_VSCode_JsonRpc_ObjectExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_JsonRpc_ObjectExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectExtensions.ToJObject method" Url="html/M_VSCode_JsonRpc_ObjectExtensions_ToJObject.htm" />
+  <HelpKINode Title="Params field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Params.htm" />
+  <HelpKINode Title="Params property">
+    <HelpKINode Title="NotificationMessage.Params Property " Url="html/P_VSCode_JsonRpc_NotificationMessage_Params.htm" />
+    <HelpKINode Title="RequestMessage.Params Property " Url="html/P_VSCode_JsonRpc_RequestMessage_Params.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ParseError field" Url="html/F_VSCode_JsonRpc_ErrorCodes_ParseError.htm" />
+  <HelpKINode Title="Position class">
+    <HelpKINode Title="Position Class" Url="html/T_VSCode_Position.htm" />
+    <HelpKINode Title="about Position class" Url="html/T_VSCode_Position.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Position__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Position.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Position.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Position property" Url="html/P_VSCode_TextDocumentPositionParams_Position.htm" />
+  <HelpKINode Title="Position.Character property" Url="html/P_VSCode_Position_Character.htm" />
+  <HelpKINode Title="Position.Line property" Url="html/P_VSCode_Position_Line.htm" />
+  <HelpKINode Title="Position.Position constructor" Url="html/M_VSCode_Position__ctor.htm" />
+  <HelpKINode Title="ProcessId property" Url="html/P_VSCode_InitializeParams_ProcessId.htm" />
+  <HelpKINode Title="Properties class">
+    <HelpKINode Title="fields" Url="html/Fields_T_VSCode_Constants_JsonRpc_Properties.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range class">
+    <HelpKINode Title="Range Class" Url="html/T_VSCode_Range.htm" />
+    <HelpKINode Title="about Range class" Url="html/T_VSCode_Range.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Range__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Range.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Range.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range property">
+    <HelpKINode Title="Diagnostic.Range Property " Url="html/P_VSCode_Diagnostic_Range.htm" />
+    <HelpKINode Title="Location.Range Property " Url="html/P_VSCode_Location_Range.htm" />
+    <HelpKINode Title="TextDocumentContentChangeEvent.Range Property " Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Range.htm" />
+    <HelpKINode Title="TextEdit.Range Property " Url="html/P_VSCode_TextEdit_Range.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range.End property" Url="html/P_VSCode_Range_End.htm" />
+  <HelpKINode Title="Range.Range constructor" Url="html/M_VSCode_Range__ctor.htm" />
+  <HelpKINode Title="Range.Start property" Url="html/P_VSCode_Range_Start.htm" />
+  <HelpKINode Title="RangeLength property" Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_RangeLength.htm" />
+  <HelpKINode Title="Request property" Url="html/P_VSCode_RequestContext_Request.htm" />
+  <HelpKINode Title="RequestCancelled event" Url="html/E_VSCode_RequestContext_RequestCancelled.htm" />
+  <HelpKINode Title="RequestContext class">
+    <HelpKINode Title="RequestContext Class" Url="html/T_VSCode_RequestContext.htm" />
+    <HelpKINode Title="about RequestContext class" Url="html/T_VSCode_RequestContext.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_VSCode_RequestContext.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_RequestContext.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_RequestContext.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestContext.Request property" Url="html/P_VSCode_RequestContext_Request.htm" />
+  <HelpKINode Title="RequestContext.RequestCancelled event" Url="html/E_VSCode_RequestContext_RequestCancelled.htm" />
+  <HelpKINode Title="RequestContext.SendError method" Url="html/M_VSCode_RequestContext_SendError.htm" />
+  <HelpKINode Title="RequestContext.SendResult method" Url="html/M_VSCode_RequestContext_SendResult.htm" />
+  <HelpKINode Title="RequestMessage class">
+    <HelpKINode Title="RequestMessage Class" Url="html/T_VSCode_JsonRpc_RequestMessage.htm" />
+    <HelpKINode Title="about RequestMessage class" Url="html/T_VSCode_JsonRpc_RequestMessage.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_JsonRpc_RequestMessage__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_JsonRpc_RequestMessage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_JsonRpc_RequestMessage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestMessage.Id property" Url="html/P_VSCode_JsonRpc_RequestMessage_Id.htm" />
+  <HelpKINode Title="RequestMessage.Jsonrpc property" Url="html/P_VSCode_JsonRpc_RequestMessage_Jsonrpc.htm" />
+  <HelpKINode Title="RequestMessage.Method property" Url="html/P_VSCode_JsonRpc_RequestMessage_Method.htm" />
+  <HelpKINode Title="RequestMessage.Params property" Url="html/P_VSCode_JsonRpc_RequestMessage_Params.htm" />
+  <HelpKINode Title="RequestMessage.RequestMessage constructor" Url="html/M_VSCode_JsonRpc_RequestMessage__ctor.htm" />
+  <HelpKINode Title="RequestReceived event" Url="html/E_VSCode_LanguageServer_RequestReceived.htm" />
+  <HelpKINode Title="ResponseMessage class">
+    <HelpKINode Title="ResponseMessage Class" Url="html/T_VSCode_JsonRpc_ResponseMessage.htm" />
+    <HelpKINode Title="about ResponseMessage class" Url="html/T_VSCode_JsonRpc_ResponseMessage.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_JsonRpc_ResponseMessage__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_JsonRpc_ResponseMessage.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_JsonRpc_ResponseMessage.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResponseMessage.Error property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Error.htm" />
+  <HelpKINode Title="ResponseMessage.Id property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Id.htm" />
+  <HelpKINode Title="ResponseMessage.Jsonrpc property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Jsonrpc.htm" />
+  <HelpKINode Title="ResponseMessage.ResponseMessage constructor" Url="html/M_VSCode_JsonRpc_ResponseMessage__ctor.htm" />
+  <HelpKINode Title="ResponseMessage.Result property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Result.htm" />
+  <HelpKINode Title="ResponseReceived event" Url="html/E_VSCode_LanguageServer_ResponseReceived.htm" />
+  <HelpKINode Title="Result field" Url="html/F_VSCode_Constants_JsonRpc_Properties_Result.htm" />
+  <HelpKINode Title="Result property" Url="html/P_VSCode_JsonRpc_ResponseMessage_Result.htm" />
+  <HelpKINode Title="RootPath property" Url="html/P_VSCode_InitializeParams_RootPath.htm" />
+  <HelpKINode Title="SendError method" Url="html/M_VSCode_RequestContext_SendError.htm" />
+  <HelpKINode Title="SendNotification method" Url="html/Overload_VSCode_LanguageServer_SendNotification.htm" />
+  <HelpKINode Title="SendRequestAsync method" Url="html/Overload_VSCode_LanguageServer_SendRequestAsync.htm" />
+  <HelpKINode Title="SendResponseAsync method" Url="html/Overload_VSCode_LanguageServer_SendResponseAsync.htm" />
+  <HelpKINode Title="SendResult method" Url="html/M_VSCode_RequestContext_SendResult.htm" />
+  <HelpKINode Title="ServerCapabilities class">
+    <HelpKINode Title="ServerCapabilities Class" Url="html/T_VSCode_ServerCapabilities.htm" />
+    <HelpKINode Title="about ServerCapabilities class" Url="html/T_VSCode_ServerCapabilities.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_ServerCapabilities__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_ServerCapabilities.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_ServerCapabilities.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServerCapabilities.ServerCapabilities constructor" Url="html/M_VSCode_ServerCapabilities__ctor.htm" />
+  <HelpKINode Title="ServerCapabilities.TextDocumentSync property" Url="html/P_VSCode_ServerCapabilities_TextDocumentSync.htm" />
+  <HelpKINode Title="Settings property" Url="html/P_VSCode_Editor_DidChangeConfigurationParams_Settings.htm" />
+  <HelpKINode Title="Severity property" Url="html/P_VSCode_Diagnostic_Severity.htm" />
+  <HelpKINode Title="ShowMessage field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessage.htm" />
+  <HelpKINode Title="ShowMessage method" Url="html/M_VSCode_Editor_EditorFeature_ShowMessage.htm" />
+  <HelpKINode Title="ShowMessageAsync method" Url="html/M_VSCode_Editor_EditorFeature_ShowMessageAsync.htm" />
+  <HelpKINode Title="ShowMessageParams class">
+    <HelpKINode Title="ShowMessageParams Class" Url="html/T_VSCode_Editor_ShowMessageParams.htm" />
+    <HelpKINode Title="about ShowMessageParams class" Url="html/T_VSCode_Editor_ShowMessageParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_ShowMessageParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_ShowMessageParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_ShowMessageParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShowMessageParams.Message property" Url="html/P_VSCode_Editor_ShowMessageParams_Message.htm" />
+  <HelpKINode Title="ShowMessageParams.ShowMessageParams constructor" Url="html/M_VSCode_Editor_ShowMessageParams__ctor.htm" />
+  <HelpKINode Title="ShowMessageParams.Type property" Url="html/P_VSCode_Editor_ShowMessageParams_Type.htm" />
+  <HelpKINode Title="ShowMessageRequest field" Url="html/F_VSCode_Editor_EditorMethods_ShowMessageRequest.htm" />
+  <HelpKINode Title="ShowMessageRequestParams class">
+    <HelpKINode Title="ShowMessageRequestParams Class" Url="html/T_VSCode_Editor_ShowMessageRequestParams.htm" />
+    <HelpKINode Title="about ShowMessageRequestParams class" Url="html/T_VSCode_Editor_ShowMessageRequestParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_ShowMessageRequestParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_ShowMessageRequestParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_ShowMessageRequestParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShowMessageRequestParams.Actions property" Url="html/P_VSCode_Editor_ShowMessageRequestParams_Actions.htm" />
+  <HelpKINode Title="ShowMessageRequestParams.Message property" Url="html/P_VSCode_Editor_ShowMessageRequestParams_Message.htm" />
+  <HelpKINode Title="ShowMessageRequestParams.ShowMessageRequestParams constructor" Url="html/M_VSCode_Editor_ShowMessageRequestParams__ctor.htm" />
+  <HelpKINode Title="ShowMessageRequestParams.Type property" Url="html/P_VSCode_Editor_ShowMessageRequestParams_Type.htm" />
+  <HelpKINode Title="Shutdown field" Url="html/F_VSCode_CoreMethods_Shutdown.htm" />
+  <HelpKINode Title="Source property" Url="html/P_VSCode_Diagnostic_Source.htm" />
+  <HelpKINode Title="Start method" Url="html/M_VSCode_LanguageServer_Start.htm" />
+  <HelpKINode Title="Start property" Url="html/P_VSCode_Range_Start.htm" />
+  <HelpKINode Title="Started enumeration member" Url="html/T_VSCode_LanguageServerState.htm" />
+  <HelpKINode Title="State property">
+    <HelpKINode Title="LanguageServer.State Property " Url="html/P_VSCode_LanguageServer_State.htm" />
+    <HelpKINode Title="Workspace.State Property " Url="html/P_VSCode_Editor_Workspace_State.htm" />
+    <HelpKINode Title="WorkspaceDocument.State Property " Url="html/P_VSCode_Editor_WorkspaceDocument_State.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Stop method" Url="html/M_VSCode_LanguageServer_Stop.htm" />
+  <HelpKINode Title="Stopped enumeration member" Url="html/T_VSCode_LanguageServerState.htm" />
+  <HelpKINode Title="SupportedVersion field" Url="html/F_VSCode_Constants_JsonRpc_SupportedVersion.htm" />
+  <HelpKINode Title="Text property">
+    <HelpKINode Title="TextDocumentContentChangeEvent.Text Property " Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Text.htm" />
+    <HelpKINode Title="TextDocumentItem.Text Property " Url="html/P_VSCode_TextDocumentItem_Text.htm" />
+    <HelpKINode Title="WorkspaceDocument.Text Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Text.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocument property">
+    <HelpKINode Title="DidChangeTextDocumentParams.TextDocument Property " Url="html/P_VSCode_Editor_DidChangeTextDocumentParams_TextDocument.htm" />
+    <HelpKINode Title="DidCloseTextDocumentParams.TextDocument Property " Url="html/P_VSCode_Editor_DidCloseTextDocumentParams_TextDocument.htm" />
+    <HelpKINode Title="DidOpenTextDocumentParams.TextDocument Property " Url="html/P_VSCode_Editor_DidOpenTextDocumentParams_TextDocument.htm" />
+    <HelpKINode Title="DidSaveTextDocumentParams.TextDocument Property " Url="html/P_VSCode_Editor_DidSaveTextDocumentParams_TextDocument.htm" />
+    <HelpKINode Title="TextDocumentPositionParams.TextDocument Property " Url="html/P_VSCode_TextDocumentPositionParams_TextDocument.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocumentChanged event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentChanged.htm" />
+  <HelpKINode Title="TextDocumentClosed event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentClosed.htm" />
+  <HelpKINode Title="TextDocumentContentChangeEvent class">
+    <HelpKINode Title="TextDocumentContentChangeEvent Class" Url="html/T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+    <HelpKINode Title="about TextDocumentContentChangeEvent class" Url="html/T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_TextDocumentContentChangeEvent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocumentContentChangeEvent.Range property" Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Range.htm" />
+  <HelpKINode Title="TextDocumentContentChangeEvent.RangeLength property" Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_RangeLength.htm" />
+  <HelpKINode Title="TextDocumentContentChangeEvent.Text property" Url="html/P_VSCode_Editor_TextDocumentContentChangeEvent_Text.htm" />
+  <HelpKINode Title="TextDocumentContentChangeEvent.TextDocumentContentChangeEvent constructor" Url="html/M_VSCode_Editor_TextDocumentContentChangeEvent__ctor.htm" />
+  <HelpKINode Title="TextDocumentIdentifier class">
+    <HelpKINode Title="TextDocumentIdentifier Class" Url="html/T_VSCode_TextDocumentIdentifier.htm" />
+    <HelpKINode Title="about TextDocumentIdentifier class" Url="html/T_VSCode_TextDocumentIdentifier.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_TextDocumentIdentifier__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_TextDocumentIdentifier.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_TextDocumentIdentifier.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocumentIdentifier.TextDocumentIdentifier constructor" Url="html/M_VSCode_TextDocumentIdentifier__ctor.htm" />
+  <HelpKINode Title="TextDocumentIdentifier.Uri property" Url="html/P_VSCode_TextDocumentIdentifier_Uri.htm" />
+  <HelpKINode Title="TextDocumentItem class">
+    <HelpKINode Title="TextDocumentItem Class" Url="html/T_VSCode_TextDocumentItem.htm" />
+    <HelpKINode Title="about TextDocumentItem class" Url="html/T_VSCode_TextDocumentItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_TextDocumentItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_TextDocumentItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_TextDocumentItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocumentItem.LanguageId property" Url="html/P_VSCode_TextDocumentItem_LanguageId.htm" />
+  <HelpKINode Title="TextDocumentItem.Text property" Url="html/P_VSCode_TextDocumentItem_Text.htm" />
+  <HelpKINode Title="TextDocumentItem.TextDocumentItem constructor" Url="html/M_VSCode_TextDocumentItem__ctor.htm" />
+  <HelpKINode Title="TextDocumentItem.Uri property" Url="html/P_VSCode_TextDocumentItem_Uri.htm" />
+  <HelpKINode Title="TextDocumentItem.Version property" Url="html/P_VSCode_TextDocumentItem_Version.htm" />
+  <HelpKINode Title="TextDocumentOpened event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentOpened.htm" />
+  <HelpKINode Title="TextDocumentPositionParams class">
+    <HelpKINode Title="TextDocumentPositionParams Class" Url="html/T_VSCode_TextDocumentPositionParams.htm" />
+    <HelpKINode Title="about TextDocumentPositionParams class" Url="html/T_VSCode_TextDocumentPositionParams.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_TextDocumentPositionParams__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_TextDocumentPositionParams.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_TextDocumentPositionParams.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextDocumentPositionParams.Position property" Url="html/P_VSCode_TextDocumentPositionParams_Position.htm" />
+  <HelpKINode Title="TextDocumentPositionParams.TextDocument property" Url="html/P_VSCode_TextDocumentPositionParams_TextDocument.htm" />
+  <HelpKINode Title="TextDocumentPositionParams.TextDocumentPositionParams constructor" Url="html/M_VSCode_TextDocumentPositionParams__ctor.htm" />
+  <HelpKINode Title="TextDocumentSaved event" Url="html/E_VSCode_Editor_EditorFeature_TextDocumentSaved.htm" />
+  <HelpKINode Title="TextDocumentSync property" Url="html/P_VSCode_ServerCapabilities_TextDocumentSync.htm" />
+  <HelpKINode Title="TextDocumentSyncKind enumeration" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+  <HelpKINode Title="TextEdit class">
+    <HelpKINode Title="TextEdit Class" Url="html/T_VSCode_TextEdit.htm" />
+    <HelpKINode Title="about TextEdit class" Url="html/T_VSCode_TextEdit.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_TextEdit__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_TextEdit.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_TextEdit.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TextEdit.NewText property" Url="html/P_VSCode_TextEdit_NewText.htm" />
+  <HelpKINode Title="TextEdit.Range property" Url="html/P_VSCode_TextEdit_Range.htm" />
+  <HelpKINode Title="TextEdit.TextEdit constructor" Url="html/M_VSCode_TextEdit__ctor.htm" />
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="EditorCommand.Title Property " Url="html/P_VSCode_EditorCommand_Title.htm" />
+    <HelpKINode Title="MessageActionItem.Title Property " Url="html/P_VSCode_Editor_MessageActionItem_Title.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToJObject method" Url="html/M_VSCode_JsonRpc_ObjectExtensions_ToJObject.htm" />
+  <HelpKINode Title="Type property">
+    <HelpKINode Title="FileEvent.Type Property " Url="html/P_VSCode_Editor_FileEvent_Type.htm" />
+    <HelpKINode Title="LogMessageParams.Type Property " Url="html/P_VSCode_Editor_LogMessageParams_Type.htm" />
+    <HelpKINode Title="ShowMessageParams.Type Property " Url="html/P_VSCode_Editor_ShowMessageParams_Type.htm" />
+    <HelpKINode Title="ShowMessageRequestParams.Type Property " Url="html/P_VSCode_Editor_ShowMessageRequestParams_Type.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Uri property">
+    <HelpKINode Title="FileEvent.Uri Property " Url="html/P_VSCode_Editor_FileEvent_Uri.htm" />
+    <HelpKINode Title="Location.Uri Property " Url="html/P_VSCode_Location_Uri.htm" />
+    <HelpKINode Title="TextDocumentIdentifier.Uri Property " Url="html/P_VSCode_TextDocumentIdentifier_Uri.htm" />
+    <HelpKINode Title="TextDocumentItem.Uri Property " Url="html/P_VSCode_TextDocumentItem_Uri.htm" />
+    <HelpKINode Title="WorkspaceDocument.Uri Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Uri.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Version property">
+    <HelpKINode Title="TextDocumentItem.Version Property " Url="html/P_VSCode_TextDocumentItem_Version.htm" />
+    <HelpKINode Title="VersionedTextDocumentIdentifier.Version Property " Url="html/P_VSCode_VersionedTextDocumentIdentifier_Version.htm" />
+    <HelpKINode Title="WorkspaceDocument.Version Property " Url="html/P_VSCode_Editor_WorkspaceDocument_Version.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedTextDocumentIdentifier class">
+    <HelpKINode Title="VersionedTextDocumentIdentifier Class" Url="html/T_VSCode_VersionedTextDocumentIdentifier.htm" />
+    <HelpKINode Title="about VersionedTextDocumentIdentifier class" Url="html/T_VSCode_VersionedTextDocumentIdentifier.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_VersionedTextDocumentIdentifier__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_VersionedTextDocumentIdentifier.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_VersionedTextDocumentIdentifier.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VersionedTextDocumentIdentifier.Version property" Url="html/P_VSCode_VersionedTextDocumentIdentifier_Version.htm" />
+  <HelpKINode Title="VersionedTextDocumentIdentifier.VersionedTextDocumentIdentifier constructor" Url="html/M_VSCode_VersionedTextDocumentIdentifier__ctor.htm" />
+  <HelpKINode Title="VSCode namespace" Url="html/N_VSCode.htm" />
+  <HelpKINode Title="VSCode.ClientCapabilities class" Url="html/T_VSCode_ClientCapabilities.htm" />
+  <HelpKINode Title="VSCode.Constants class" Url="html/T_VSCode_Constants.htm" />
+  <HelpKINode Title="VSCode.Constants.JsonRpc class" Url="html/T_VSCode_Constants_JsonRpc.htm" />
+  <HelpKINode Title="VSCode.Constants.JsonRpc.Properties class" Url="html/T_VSCode_Constants_JsonRpc_Properties.htm" />
+  <HelpKINode Title="VSCode.CoreMethods class" Url="html/T_VSCode_CoreMethods.htm" />
+  <HelpKINode Title="VSCode.Diagnostic class" Url="html/T_VSCode_Diagnostic.htm" />
+  <HelpKINode Title="VSCode.DiagnosticSeverity enumeration" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+  <HelpKINode Title="VSCode.Editor namespace" Url="html/N_VSCode_Editor.htm" />
+  <HelpKINode Title="VSCode.Editor.DidChangeConfigurationParams class" Url="html/T_VSCode_Editor_DidChangeConfigurationParams.htm" />
+  <HelpKINode Title="VSCode.Editor.DidChangeTextDocumentParams class" Url="html/T_VSCode_Editor_DidChangeTextDocumentParams.htm" />
+  <HelpKINode Title="VSCode.Editor.DidChangeWatchedFilesParams class" Url="html/T_VSCode_Editor_DidChangeWatchedFilesParams.htm" />
+  <HelpKINode Title="VSCode.Editor.DidCloseTextDocumentParams class" Url="html/T_VSCode_Editor_DidCloseTextDocumentParams.htm" />
+  <HelpKINode Title="VSCode.Editor.DidOpenTextDocumentParams class" Url="html/T_VSCode_Editor_DidOpenTextDocumentParams.htm" />
+  <HelpKINode Title="VSCode.Editor.DidSaveTextDocumentParams class" Url="html/T_VSCode_Editor_DidSaveTextDocumentParams.htm" />
+  <HelpKINode Title="VSCode.Editor.EditorFeature class" Url="html/T_VSCode_Editor_EditorFeature.htm" />
+  <HelpKINode Title="VSCode.Editor.EditorMethods class" Url="html/T_VSCode_Editor_EditorMethods.htm" />
+  <HelpKINode Title="VSCode.Editor.FileChangeType enumeration" Url="html/T_VSCode_Editor_FileChangeType.htm" />
+  <HelpKINode Title="VSCode.Editor.FileEvent class" Url="html/T_VSCode_Editor_FileEvent.htm" />
+  <HelpKINode Title="VSCode.Editor.LogMessageParams class" Url="html/T_VSCode_Editor_LogMessageParams.htm" />
+  <HelpKINode Title="VSCode.Editor.MessageActionItem class" Url="html/T_VSCode_Editor_MessageActionItem.htm" />
+  <HelpKINode Title="VSCode.Editor.MessageType enumeration" Url="html/T_VSCode_Editor_MessageType.htm" />
+  <HelpKINode Title="VSCode.Editor.ShowMessageParams class" Url="html/T_VSCode_Editor_ShowMessageParams.htm" />
+  <HelpKINode Title="VSCode.Editor.ShowMessageRequestParams class" Url="html/T_VSCode_Editor_ShowMessageRequestParams.htm" />
+  <HelpKINode Title="VSCode.Editor.TextDocumentContentChangeEvent class" Url="html/T_VSCode_Editor_TextDocumentContentChangeEvent.htm" />
+  <HelpKINode Title="VSCode.Editor.Workspace class" Url="html/T_VSCode_Editor_Workspace.htm" />
+  <HelpKINode Title="VSCode.Editor.WorkspaceDocument class" Url="html/T_VSCode_Editor_WorkspaceDocument.htm" />
+  <HelpKINode Title="VSCode.EditorCommand class" Url="html/T_VSCode_EditorCommand.htm" />
+  <HelpKINode Title="VSCode.FeatureActivationException class" Url="html/T_VSCode_FeatureActivationException.htm" />
+  <HelpKINode Title="VSCode.IFeature interface" Url="html/T_VSCode_IFeature.htm" />
+  <HelpKINode Title="VSCode.InitializeParams class" Url="html/T_VSCode_InitializeParams.htm" />
+  <HelpKINode Title="VSCode.InitializeResult class" Url="html/T_VSCode_InitializeResult.htm" />
+  <HelpKINode Title="VSCode.JsonRpc namespace" Url="html/N_VSCode_JsonRpc.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.ErrorCodes class" Url="html/T_VSCode_JsonRpc_ErrorCodes.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.IMessage interface" Url="html/T_VSCode_JsonRpc_IMessage.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.NotificationMessage class" Url="html/T_VSCode_JsonRpc_NotificationMessage.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.ObjectExtensions class" Url="html/T_VSCode_JsonRpc_ObjectExtensions.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.RequestMessage class" Url="html/T_VSCode_JsonRpc_RequestMessage.htm" />
+  <HelpKINode Title="VSCode.JsonRpc.ResponseMessage class" Url="html/T_VSCode_JsonRpc_ResponseMessage.htm" />
+  <HelpKINode Title="VSCode.LanguageServer class" Url="html/T_VSCode_LanguageServer.htm" />
+  <HelpKINode Title="VSCode.LanguageServerState enumeration" Url="html/T_VSCode_LanguageServerState.htm" />
+  <HelpKINode Title="VSCode.Location class" Url="html/T_VSCode_Location.htm" />
+  <HelpKINode Title="VSCode.Position class" Url="html/T_VSCode_Position.htm" />
+  <HelpKINode Title="VSCode.Range class" Url="html/T_VSCode_Range.htm" />
+  <HelpKINode Title="VSCode.RequestContext class" Url="html/T_VSCode_RequestContext.htm" />
+  <HelpKINode Title="VSCode.ServerCapabilities class" Url="html/T_VSCode_ServerCapabilities.htm" />
+  <HelpKINode Title="VSCode.TextDocumentIdentifier class" Url="html/T_VSCode_TextDocumentIdentifier.htm" />
+  <HelpKINode Title="VSCode.TextDocumentItem class" Url="html/T_VSCode_TextDocumentItem.htm" />
+  <HelpKINode Title="VSCode.TextDocumentPositionParams class" Url="html/T_VSCode_TextDocumentPositionParams.htm" />
+  <HelpKINode Title="VSCode.TextDocumentSyncKind enumeration" Url="html/T_VSCode_TextDocumentSyncKind.htm" />
+  <HelpKINode Title="VSCode.TextEdit class" Url="html/T_VSCode_TextEdit.htm" />
+  <HelpKINode Title="VSCode.VersionedTextDocumentIdentifier class" Url="html/T_VSCode_VersionedTextDocumentIdentifier.htm" />
+  <HelpKINode Title="WaitForState method" Url="html/Overload_VSCode_LanguageServer_WaitForState.htm" />
+  <HelpKINode Title="WaitingForInitialization enumeration member" Url="html/T_VSCode_LanguageServerState.htm" />
+  <HelpKINode Title="Warning enumeration member">
+    <HelpKINode Title="DiagnosticSeverity Enumeration" Url="html/T_VSCode_DiagnosticSeverity.htm" />
+    <HelpKINode Title="MessageType Enumeration" Url="html/T_VSCode_Editor_MessageType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WatchedFilesChanged event" Url="html/E_VSCode_Editor_EditorFeature_WatchedFilesChanged.htm" />
+  <HelpKINode Title="Workspace class">
+    <HelpKINode Title="Workspace Class" Url="html/T_VSCode_Editor_Workspace.htm" />
+    <HelpKINode Title="about Workspace class" Url="html/T_VSCode_Editor_Workspace.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_Workspace__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_VSCode_Editor_Workspace.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_Workspace.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_Workspace.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Workspace property" Url="html/P_VSCode_Editor_EditorFeature_Workspace.htm" />
+  <HelpKINode Title="Workspace.Dispose method" Url="html/M_VSCode_Editor_Workspace_Dispose.htm" />
+  <HelpKINode Title="Workspace.DocumentChanged event" Url="html/E_VSCode_Editor_Workspace_DocumentChanged.htm" />
+  <HelpKINode Title="Workspace.DocumentClosed event" Url="html/E_VSCode_Editor_Workspace_DocumentClosed.htm" />
+  <HelpKINode Title="Workspace.DocumentOpened event" Url="html/E_VSCode_Editor_Workspace_DocumentOpened.htm" />
+  <HelpKINode Title="Workspace.Documents property" Url="html/P_VSCode_Editor_Workspace_Documents.htm" />
+  <HelpKINode Title="Workspace.State property" Url="html/P_VSCode_Editor_Workspace_State.htm" />
+  <HelpKINode Title="Workspace.Workspace constructor" Url="html/M_VSCode_Editor_Workspace__ctor.htm" />
+  <HelpKINode Title="WorkspaceDocument class">
+    <HelpKINode Title="WorkspaceDocument Class" Url="html/T_VSCode_Editor_WorkspaceDocument.htm" />
+    <HelpKINode Title="about WorkspaceDocument class" Url="html/T_VSCode_Editor_WorkspaceDocument.htm" />
+    <HelpKINode Title="constructor" Url="html/M_VSCode_Editor_WorkspaceDocument__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_VSCode_Editor_WorkspaceDocument.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_VSCode_Editor_WorkspaceDocument.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WorkspaceDocument.LanguageId property" Url="html/P_VSCode_Editor_WorkspaceDocument_LanguageId.htm" />
+  <HelpKINode Title="WorkspaceDocument.State property" Url="html/P_VSCode_Editor_WorkspaceDocument_State.htm" />
+  <HelpKINode Title="WorkspaceDocument.Text property" Url="html/P_VSCode_Editor_WorkspaceDocument_Text.htm" />
+  <HelpKINode Title="WorkspaceDocument.Uri property" Url="html/P_VSCode_Editor_WorkspaceDocument_Uri.htm" />
+  <HelpKINode Title="WorkspaceDocument.Version property" Url="html/P_VSCode_Editor_WorkspaceDocument_Version.htm" />
+  <HelpKINode Title="WorkspaceDocument.WorkspaceDocument constructor" Url="html/M_VSCode_Editor_WorkspaceDocument__ctor.htm" />
+</HelpKI>
