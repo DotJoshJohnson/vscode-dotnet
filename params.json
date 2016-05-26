@@ -1,0 +1,6 @@
+{
+  "name": "VSCode.NET",
+  "tagline": "A Visual Studio Code language server implementation for .NET/.NET Core.",
+  "body": "# VSCode.NET\r\nVSCode.NET is a language server for Visual Studio Code written in C#. It is designed to be compatible with the Microsoft/vscode-languageserver-node client. Currently, VSCode.NET supports .NET 4.5, 4.5.1, 4.5.2, and .NET Core 1.0.\r\n\r\n# API Documentation\r\n*Coming Soon!*\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
