@@ -2,7 +2,7 @@
     "title": "VSCode.NET",
     "copyright": "Copyright 2016, Josh Johnson",
     "description": "A VS Code language server implemention for .NET/.NET Core.",
-    "version": "1.0.0-*",
+    "version": "1.0.0-alpha1",
     "dependencies": {
         "Newtonsoft.Json": "8.0.4-beta1"
     },
@@ -30,6 +30,7 @@
     },
     "buildOptions": {
         "xmlDoc": true,
-        "defines": [ "DEBUG" ]
+        "defines": [ "DEBUG" ],
+        "optimize": false
     }
 }
