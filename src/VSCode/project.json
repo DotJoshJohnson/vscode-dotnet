@@ -1,0 +1,35 @@
+{
+    "title": "VSCode.NET",
+    "copyright": "Copyright 2016, Josh Johnson",
+    "description": "A VS Code language server implemention for .NET/.NET Core.",
+    "version": "1.0.0-*",
+    "dependencies": {
+        "Newtonsoft.Json": "8.0.4-beta1"
+    },
+    "frameworks": {
+        "net45": {
+            "dependencies": {
+            }
+        },
+        "net451": {
+            "dependencies": {
+            }
+        },
+        "net452": {
+            "dependencies": {
+            }
+        },
+        "netstandard1.5": {
+            "imports": "dnxcore50",
+            "dependencies": {
+                "NETStandard.Library": "1.5.0-rc2-24027",
+                "System.Diagnostics.TraceSource": "4.0.0-rc2-24027",
+                "System.Reflection": "4.1.0-rc2-24027"
+            }
+        }
+    },
+    "buildOptions": {
+        "xmlDoc": true,
+        "defines": [ "DEBUG" ]
+    }
+}
