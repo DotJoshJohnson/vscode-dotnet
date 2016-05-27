@@ -6,11 +6,9 @@ namespace VSCode
 {
     public class RequestContext
     {
-        private LanguageServer _server;
-
         internal RequestContext(RequestMessage request, LanguageServer server)
         {
-            _server = server;
+            Server = server;
 
             Request = request;
         }
@@ -18,6 +16,8 @@ namespace VSCode
         public event EventHandler RequestCancelled;
 
         public RequestMessage Request { get; private set; }
+        internal LanguageServer Server { get; private set; }
+        
 
         internal void Cancel()
         {
@@ -26,12 +26,31 @@ namespace VSCode
 
         public void SendError(object error)
         {
-            _server.SendResponseAsync(Request.Id, null, error).Wait();
+            Server.SendResponseAsync(Request.Id, null, error).Wait();
         }
 
         public void SendResult(object result)
         {
-            _server.SendResponseAsync(Request.Id, result).Wait();
+            Server.SendResponseAsync(Request.Id, result).Wait();
+        }
+    }
+
+    public class RequestContext<TRequestParams, TResponseResult> : RequestContext
+        where TRequestParams : class
+    {
+        internal RequestContext(RequestMessage request, LanguageServer server)
+            : base(request, server)
+        { }
+
+        internal RequestContext(RequestContext baseContext)
+            : this(baseContext.Request, baseContext.Server)
+        { }
+
+        public TRequestParams RequestParameters { get { return Request.Params?.ToObject<TRequestParams>(); } }
+
+        public new void SendResult(TResponseResult result)
+        {
+            base.SendResult(result);
         }
     }
 }
