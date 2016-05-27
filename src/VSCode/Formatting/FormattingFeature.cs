@@ -13,7 +13,7 @@ namespace VSCode.Formatting
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _server.RequestReceived -= _HandleRequest;
         }
 
         public void Initialize(LanguageServer languageServer)

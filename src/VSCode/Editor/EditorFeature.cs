@@ -55,6 +55,8 @@ namespace VSCode.Editor
         /// </summary>
         public void Dispose()
         {
+            _server.NotificationReceived -= _HandleNotification;
+
             Workspace.Dispose();
         }
 
