@@ -273,24 +273,27 @@ namespace VSCode
             }
         }
 
-        public void WaitForState(LanguageServerState desiredState, TimeSpan timeout)
+        public void WaitForState(LanguageServerState desiredState, CancellationToken token)
         {
-            DateTime expires = DateTime.Now.Add(timeout);
-
-            while (DateTime.Now < expires)
+            while (true)
             {
                 Task.Delay(2).Wait();
-
                 if (State == desiredState)
                 {
-                    break;
+                    return;
                 }
+                token.ThrowIfCancellationRequested();
             }
+        }
+
+        public void WaitForState(LanguageServerState desiredState, TimeSpan timeout)
+        {
+            WaitForState(desiredState, new CancellationTokenSource(timeout).Token);
         }
 
         public void WaitForState(LanguageServerState desiredState)
         {
-            WaitForState(desiredState, TimeSpan.MaxValue);
+            WaitForState(desiredState, CancellationToken.None);
         }
 
         private void _HandleMessage(IMessage message)
